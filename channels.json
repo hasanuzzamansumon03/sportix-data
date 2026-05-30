@@ -1,17 +1,24 @@
 {
-  "updated": "2025-01-01",
+  "updated": "2025-05-30",
   "categories": [
     {
       "id": "live",
       "name": "Live Sports",
-      "icon": "🔴",
       "channels": [
         {
           "id": 1,
-          "name": "Star Sports 1",
-          "logo": "https://i.imgur.com/YOUR_LOGO.png",
+          "name": "Star Sports 1 HD",
+          "logo": "https://i.imgur.com/example1.png",
           "url": "YOUR_M3U8_LINK_HERE",
           "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 2,
+          "name": "Star Sports 2 HD",
+          "logo": "https://i.imgur.com/example2.png",
+          "url": "YOUR_M3U8_LINK_HERE",
           "quality": "HD",
           "language": "EN"
         }
@@ -20,25 +27,39 @@
     {
       "id": "cricket",
       "name": "Cricket",
-      "icon": "🏏",
-      "channels": []
+      "channels": [
+        {
+          "id": 3,
+          "name": "Gazi TV",
+          "logo": "https://i.imgur.com/example3.png",
+          "url": "YOUR_M3U8_LINK_HERE",
+          "quality": "HD",
+          "language": "BN"
+        }
+      ]
     },
     {
       "id": "football",
       "name": "Football",
-      "icon": "⚽",
       "channels": []
     },
     {
       "id": "news",
       "name": "News",
-      "icon": "📰",
-      "channels": []
+      "channels": [
+        {
+          "id": 4,
+          "name": "Somoy TV",
+          "logo": "https://i.imgur.com/example4.png",
+          "url": "YOUR_M3U8_LINK_HERE",
+          "quality": "HD",
+          "language": "BN"
+        }
+      ]
     },
     {
       "id": "entertainment",
       "name": "Entertainment",
-      "icon": "🎬",
       "channels": []
     }
   ]
