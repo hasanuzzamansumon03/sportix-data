@@ -1,0 +1,12 @@
+{
+  "matches": [
+    {
+      "id": 1,
+      "title": "Bangladesh vs India",
+      "sport": "Cricket",
+      "time": "2025-06-01T14:00:00+06:00",
+      "status": "upcoming",
+      "channel_ids": [1, 2]
+    }
+  ]
+}
