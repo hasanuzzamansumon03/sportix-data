@@ -1,113 +1,209 @@
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png" group-title="Cricket", Rwanda Vs Botswana | ICC Men's T20 WC Africa Sub Regional Qualifier (ENGLISH)
-https://bd-mc-fblive.fancode.com/mumbai/142927_english_hls_46d60607fc24413_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SC-W_BD-W.jpg" group-title="Cricket", Bangladesh Women Vs Scotland Women | Scotland Women's T20I Tri-Series 2026 (ENGLISH)
-https://bd-mc-fblive.fancode.com/mumbai/143003_english_hls_a43a14b18940033_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/India-vs-Zimbabwe_fc-web.jpg" group-title="Football", India Vs Zimbabwe | Unity Cup 2026 (ENGLISH)
-https://bd-mc-fblive.fancode.com/mumbai/142668_english_hls_6f3ac729b210192_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BREMBO-GRAND-PRIX-OF-ITALY-2026-old.png" group-title="MotoGP", Italy Gp | BREMBO GRAND PRIX OF ITALY 2026 (ENGLISH)
-https://bd-mc-fblive.fancode.com/mumbai/139946_english_hls_5797e10a2635939_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Tennis", Court Philippe Chatrier | Roland Garros 2026 (ENGLISH)
-https://dai.google.com/linear/hls/event/alqtTrVWQeuxHd8fbw-Rmw/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="Golf", Day 3   Main Feed | Charles Schwab Challenge 2026 (ENGLISH)
-https://bd-mc-fblive.fancode.com/mumbai/142897_english_hls_cf3c7cefd948526_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="Golf", Day 3   Featured Holes | Charles Schwab Challenge 2026 (ENGLISH)
-https://bd-mc-fblive.fancode.com/mumbai/142900_english_hls_6f5ceeb0e098411_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="Golf", Day 3   Featured Groups | Charles Schwab Challenge 2026 (ENGLISH)
-https://bd-mc-fblive.fancode.com/mumbai/142899_english_hls_8fabe9b13036316_1ta-di_h264/index.m3u8
-
-```
-#EXTINF:-1 tvg-id="tapmad-13574" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800054021020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 3rd Round - Suzanne Lenglen Live | French Open 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13575" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800087211020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 3rd Round - World Feed Live | French Open 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13820" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800050141020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 3rd Round - Simonne Mathieu | French Open 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13821" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800051941020x576.jpg" group-title="Tennis", Ladies, Gentlemen's & Mixed Doubles - 2nd Round - Court 14 Live | French Open 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13576" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800089681020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 3rd Round - Philippe Chatrier Live | French Open 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-12996" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17796943161020x576.jpg" group-title="Mma", Song vs Figueiredo | UFC 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/vertical-backup312/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13895" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800119971020x576.jpg" group-title="Racing", GT2 European Series - Race 1 Live | GT World Challenge EU & Asia 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13485" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17798637001020x576.jpg" group-title="Cricket", Pakistan vs Australia Live | Australia Tour of Pakistan 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13853" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17799101161020x576.jpg" group-title="Football", Scotland vs Curaco | European Qualifiers FIFA World Cup 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/testtapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13757" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17801027221020x576.jpg" group-title="Racing", Sprint Race 1 - Italy Live | UIM F1H2O World Championship 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/T@p305t@P!23@25!95/master.m3u8
-
-```
-
-আমি কিছু লাইফ ইস্ট্রিম এম থ্রি ইউ এইট লিংক সংগ্রহ করেছি যেটি আমি তোমার সাথে শেয়ার করলাম তুমি এখন এটি চ্যানেল ডট জেসন হিসেবে তৈরি করে দাও আমি সরাসরি সেটি যেন আপডেট করে দিতে পারি আমার ওয়েবসাইটের ভেতর
-
-example:
-```
 {
-  "updated": "2025-05-30",
+  "updated": "2026-05-30",
   "categories": [
     {
-      "id": "live",
-      "name": "Live Sports",
+      "id": "cricket",
+      "name": "Cricket",
       "channels": [
         {
           "id": 1,
-          "name": "Star Sports 1 HD",
-          "logo": "https://i.imgur.com/example1.png",
-          "url": "YOUR_M3U8_LINK_HERE",
+          "name": "Rwanda Vs Botswana | ICC Men's T20 WC Africa Sub Regional Qualifier",
+          "logo": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png",
+          "url": "https://bd-mc-fblive.fancode.com/mumbai/142927_english_hls_46d60607fc24413_1ta-di_h264/index.m3u8",
           "badge": "LIVE",
           "quality": "HD",
           "language": "EN"
         },
         {
           "id": 2,
-          "name": "Star Sports 2 HD",
-          "logo": "https://i.imgur.com/example2.png",
-          "url": "YOUR_M3U8_LINK_HERE",
+          "name": "Bangladesh Women Vs Scotland Women | Scotland Women's T20I Tri-Series 2026",
+          "logo": "https://www.fancode.com/skillup-uploads/cms-media/SC-W_BD-W.jpg",
+          "url": "https://bd-mc-fblive.fancode.com/mumbai/143003_english_hls_a43a14b18940033_1ta-di_h264/index.m3u8",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 3,
+          "name": "Pakistan vs Australia Live | Australia Tour of Pakistan 2026",
+          "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17798637001020x576.jpg",
+          "url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8",
+          "badge": "LIVE",
           "quality": "HD",
           "language": "EN"
         }
       ]
     },
     {
-      "id": "cricket",
-      "name": "Cricket",
-      "channels": [
-        {
-          "id": 3,
-          "name": "Gazi TV",
-          "logo": "https://i.imgur.com/example3.png",
-          "url": "YOUR_M3U8_LINK_HERE",
-          "quality": "HD",
-          "language": "BN"
-        }
-      ]
-    },
-    {
       "id": "football",
       "name": "Football",
-      "channels": []
-    },
-    {
-      "id": "news",
-      "name": "News",
       "channels": [
         {
           "id": 4,
-          "name": "Somoy TV",
-          "logo": "https://i.imgur.com/example4.png",
-          "url": "YOUR_M3U8_LINK_HERE",
+          "name": "India Vs Zimbabwe | Unity Cup 2026",
+          "logo": "https://www.fancode.com/skillup-uploads/cms-media/India-vs-Zimbabwe_fc-web.jpg",
+          "url": "https://bd-mc-fblive.fancode.com/mumbai/142668_english_hls_6f3ac729b210192_1ta-di_h264/index.m3u8",
+          "badge": "LIVE",
           "quality": "HD",
-          "language": "BN"
+          "language": "EN"
+        },
+        {
+          "id": 5,
+          "name": "Scotland vs Curaco | European Qualifiers FIFA World Cup 2026",
+          "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17799101161020x576.jpg",
+          "url": "https://premierleagpl23.akamaized.net/hls/live/2107108/testtapmad/master.m3u8",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
         }
       ]
     },
     {
-      "id": "entertainment",
-      "name": "Entertainment",
-      "channels": []
+      "id": "tennis",
+      "name": "Tennis",
+      "channels": [
+        {
+          "id": 6,
+          "name": "Court Philippe Chatrier | Roland Garros 2026",
+          "logo": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+          "url": "https://dai.google.com/linear/hls/event/alqtTrVWQeuxHd8fbw-Rmw/master.m3u8",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 7,
+          "name": "Ladies' & Gentlemen's Singles - 3rd Round - Suzanne Lenglen | French Open 2026",
+          "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800054021020x576.jpg",
+          "url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 8,
+          "name": "Ladies' & Gentlemen's Singles - 3rd Round - World Feed | French Open 2026",
+          "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800087211020x576.jpg",
+          "url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 9,
+          "name": "Ladies' & Gentlemen's Singles - 3rd Round - Simonne Mathieu | French Open 2026",
+          "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800050141020x576.jpg",
+          "url": "https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 10,
+          "name": "Ladies, Gentlemen's & Mixed Doubles - 2nd Round - Court 14 | French Open 2026",
+          "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800051941020x576.jpg",
+          "url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 11,
+          "name": "Ladies' & Gentlemen's Singles - 3rd Round - Philippe Chatrier | French Open 2026",
+          "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800089681020x576.jpg",
+          "url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        }
+      ]
+    },
+    {
+      "id": "golf",
+      "name": "Golf",
+      "channels": [
+        {
+          "id": 12,
+          "name": "Day 3 - Main Feed | Charles Schwab Challenge 2026",
+          "logo": "https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg",
+          "url": "https://bd-mc-fblive.fancode.com/mumbai/142897_english_hls_cf3c7cefd948526_1ta-di_h264/index.m3u8",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 13,
+          "name": "Day 3 - Featured Holes | Charles Schwab Challenge 2026",
+          "logo": "https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg",
+          "url": "https://bd-mc-fblive.fancode.com/mumbai/142900_english_hls_6f5ceeb0e098411_1ta-di_h264/index.m3u8",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 14,
+          "name": "Day 3 - Featured Groups | Charles Schwab Challenge 2026",
+          "logo": "https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg",
+          "url": "https://bd-mc-fblive.fancode.com/mumbai/142899_english_hls_8fabe9b13036316_1ta-di_h264/index.m3u8",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        }
+      ]
+    },
+    {
+      "id": "motogp",
+      "name": "MotoGP",
+      "channels": [
+        {
+          "id": 15,
+          "name": "Italy GP | BREMBO Grand Prix of Italy 2026",
+          "logo": "https://www.fancode.com/skillup-uploads/cms-media/BREMBO-GRAND-PRIX-OF-ITALY-2026-old.png",
+          "url": "https://bd-mc-fblive.fancode.com/mumbai/139946_english_hls_5797e10a2635939_1ta-di_h264/index.m3u8",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        }
+      ]
+    },
+    {
+      "id": "racing",
+      "name": "Racing",
+      "channels": [
+        {
+          "id": 16,
+          "name": "GT2 European Series - Race 1 | GT World Challenge EU & Asia 2026",
+          "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800119971020x576.jpg",
+          "url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 17,
+          "name": "Sprint Race 1 - Italy | UIM F1H2O World Championship 2026",
+          "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17801027221020x576.jpg",
+          "url": "https://premierleagpl23.akamaized.net/hls/live/2107108/T@p305t@P!23@25!95/master.m3u8",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        }
+      ]
+    },
+    {
+      "id": "mma",
+      "name": "MMA",
+      "channels": [
+        {
+          "id": 18,
+          "name": "Song vs Figueiredo | UFC 2026",
+          "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17796943161020x576.jpg",
+          "url": "https://premierleagpl23.akamaized.net/hls/live/2107108/vertical-backup312/master.m3u8",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        }
+      ]
     }
   ]
 }
-
-```
