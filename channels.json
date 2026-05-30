@@ -1,3 +1,1867 @@
 {
-  "response": "{\n  \"updated\": \"2026-05-30\",\n  \"categories\": [\n    {\n      \"id\": \"sports\",\n      \"name\": \"Sports\",\n      \"channels\": [\n        {\n          \"id\": 1,\n          \"name\": \"ES1. Giro d'Italia, Stage 20 [238]\",\n          \"logo\": \"https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png\",\n          \"url\": \"https://livecdn-bp-iptv.rumsport7.live/live_abr/238_abrhd.m3u8?is_vip=false&token=89fe9d6ac50c1ecb6dd03a867fab94b613552954&x-sign=3283d6e57114a288889c9d7ff1cbd81d&x-time=1780148700\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 2,\n          \"name\": \"Day 7 | Feed 2 - Roland Garros [27] (Server 1)\",\n          \"logo\": \"https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png\",\n          \"url\": \"https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=89fe9d6ac50c1ecb6dd03a867fab94b613552954&x-sign=605b660443acd5cdb7b15b0d299c2759&x-time=1780148700\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 3,\n          \"name\": \"Day 7 | Feed 2 - Roland Garros [27] (Server 2)\",\n          \"logo\": \"https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png\",\n          \"url\": \"https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1780235125-Kv4cPTAAP5YTi-89fe9d6ac50c1ecb6dd03a867fab94b613552954-c16996680a6f5619603b5bd55c19c498|Referer=https://iframe.rumsport7.live/\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 4,\n          \"name\": \"Day 7 | Feed 3 - Roland Garros [7] (Server 1)\",\n          \"logo\": \"https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png\",\n          \"url\": \"https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=89fe9d6ac50c1ecb6dd03a867fab94b613552954&x-sign=99dbf6dac810a906efad5611a0bf5fe6&x-time=1780148700\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 5,\n          \"name\": \"Day 7 | Feed 3 - Roland Garros [7] (Server 2)\",\n          \"logo\": \"https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png\",\n          \"url\": \"https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1780235132-Kv4cPTAAP5YTi-89fe9d6ac50c1ecb6dd03a867fab94b613552954-367a25c2699a0a4ac6b078237d7af7e3|Referer=https://iframe.rumsport7.live/\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 6,\n          \"name\": \"Day 7 - Roland Garros [323]\",\n          \"logo\": \"https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png\",\n          \"url\": \"https://livecdn-bp-iptv.rumsport7.live/live_abr/323_abrhd.m3u8?is_vip=false&token=89fe9d6ac50c1ecb6dd03a867fab94b613552954&x-sign=8950035ff83369c427858f865b9a922b&x-time=1780148700\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 7,\n          \"name\": \"Day 7 | Feed 1 - Roland Garros [25] (Server 1)\",\n          \"logo\": \"https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png\",\n          \"url\": \"https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=89fe9d6ac50c1ecb6dd03a867fab94b613552954&x-sign=6638233ed518dad87e9ed0c1aaddda05&x-time=1780148700\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 8,\n          \"name\": \"Day 7 | Feed 1 - Roland Garros [25] (Server 2)\",\n          \"logo\": \"https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png\",\n          \"url\": \"https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1780235143-Kv4cPTAAP5YTi-89fe9d6ac50c1ecb6dd03a867fab94b613552954-8f54d7249b0e7179ff68b365c63bb203|Referer=https://iframe.rumsport7.live/\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 9,\n          \"name\": \"SONG vs FIGUEIREDO - UFC FIGHT NIGHT [53768]\",\n          \"logo\": \"https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png\",\n          \"url\": \"https://livecdn-bp-iptv.rumsport7.live/live_abr/53768_abrhd.m3u8?is_vip=false&token=89fe9d6ac50c1ecb6dd03a867fab94b613552954&x-sign=e9bba005e1a7e5e4ff3e1a5179679e99&x-time=1780148700\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 10,\n          \"name\": \"Day 2 - Afternoon Session - Unknown League [114414] (Server 1)\",\n          \"logo\": \"https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png\",\n          \"url\": \"https://livecdn-tc-iptv.rumsport10.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=1780235153-Kv4cPTAAP5YTi-89fe9d6ac50c1ecb6dd03a867fab94b613552954-010c0658f7ff0ce8b1112610602fd776|Referer=https://iframe.rumsport7.live/\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 11,\n          \"name\": \"Day 2 - Afternoon Session - Unknown League [114414] (Server 2)\",\n          \"logo\": \"https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png\",\n          \"url\": \"https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=89fe9d6ac50c1ecb6dd03a867fab94b613552954&x-sign=8475d91604cbbb04608b3c6924c96a15&x-time=1780148700\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 12,\n          \"name\": \"Scotland vs Curaçao - Friendlies [143070]\",\n          \"logo\": \"https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Scotland%20VS%20Cura%C3%A7ao%20%20Friendlies.jpg\",\n          \"url\": \"https://livecdn-bp-iptv.rumsport7.live/live_abr/143070_abrhd.m3u8?is_vip=false&token=89fe9d6ac50c1ecb6dd03a867fab94b613552954&x-sign=faa8b415d1a097eccf221817e12c3517&x-time=1780148760\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 13,\n          \"name\": \"Saracens vs Harlequins - PREM Rugby [4]\",\n          \"logo\": \"https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saracens%20VS%20Harlequins%20%20PREM%20Rugby.jpg\",\n          \"url\": \"https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=89fe9d6ac50c1ecb6dd03a867fab94b613552954&x-sign=95de3e8f5315afdec9b4a49e21071f70&x-time=1780148760\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 14,\n          \"name\": \"Montauban vs Stade Rochelais - Top 14 [24] (Server 1)\",\n          \"logo\": \"https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png\",\n          \"url\": \"https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1780235173-Kv4cPTAAP5YTi-89fe9d6ac50c1ecb6dd03a867fab94b613552954-7d09f59b2d255ab3bfbabcf83364647f|Referer=https://iframe.rumsport7.live/\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 15,\n          \"name\": \"Montauban vs Stade Rochelais - Top 14 [24] (Server 2)\",\n          \"logo\": \"https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png\",\n          \"url\": \"https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=89fe9d6ac50c1ecb6dd03a867fab94b613552954&x-sign=75db5614f37780eef874df9c780bb1c1&x-time=1780148760\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 16,\n          \"name\": \"Valladolid Day 2: Session 2 - Super Rugby Pacific [2]\",\n          \"logo\": \"https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png\",\n          \"url\": \"https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=89fe9d6ac50c1ecb6dd03a867fab94b613552954&x-sign=bf386573df7cb93f3294b38cfb779f1a&x-time=1780148760\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 17,\n          \"name\": \"Northampton vs Gloucester - PREM Rugby [4] (Server 1)\",\n          \"logo\": \"https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png\",\n          \"url\": \"https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1780235186-Kv4cPTAAP5YTi-89fe9d6ac50c1ecb6dd03a867fab94b613552954-1faaab51e24d5e4403ae6aa2c5d8678f|Referer=https://iframe.rumsport7.live/\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 18,\n          \"name\": \"Northampton vs Gloucester - PREM Rugby [4] (Server 2)\",\n          \"logo\": \"https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png\",\n          \"url\": \"https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=89fe9d6ac50c1ecb6dd03a867fab94b613552954&x-sign=95de3e8f5315afdec9b4a49e21071f70&x-time=1780148760\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 19,\n          \"name\": \"Day 7 | Feed 3 | Roland Garros [Server 2]\",\n          \"logo\": \"https://placehold.co/800x450/ffffff/000000.png?text=Day%207%0AFeed%203%20%7C%20Roland%20Garros&font=Oswald\",\n          \"url\": \"https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1780235215-Kv4cPTAAP5YTi-5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5-8740b253e686253cebaa7eef351baa90\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 20,\n          \"name\": \"Day 7 | Roland Garros [Server 1]\",\n          \"logo\": \"https://placehold.co/800x450/ffffff/000000.png?text=Day%207%0ARoland%20Garros&font=Oswald\",\n          \"url\": \"https://livecdn-bp-iptv.rumsport7.live/live_abr/323_abrhd.m3u8?is_vip=false&token=5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5&x-sign=e7e8eac0a50f1610c6c15db95967afdd&x-time=1780148820\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 21,\n          \"name\": \"Day 7 | Feed 1 | Roland Garros [Server 1]\",\n          \"logo\": \"https://placehold.co/800x450/ffffff/000000.png?text=Day%207%0AFeed%201%20%7C%20Roland%20Garros&font=Oswald\",\n          \"url\": \"https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5&x-sign=a92974c74d7a48c71407be7682752ac3&x-time=1780148820\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 22,\n          \"name\": \"Day 7 | Feed 1 | Roland Garros [Server 2]\",\n          \"logo\": \"https://placehold.co/800x450/ffffff/000000.png?text=Day%207%0AFeed%201%20%7C%20Roland%20Garros&font=Oswald\",\n          \"url\": \"https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1780235229-Kv4cPTAAP5YTi-5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5-8baaef71853907ebe639ea1cdb71f612\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 23,\n          \"name\": \"SONG VS FIGUEIREDO | UFC FIGHT NIGHT [Server 1]\",\n          \"logo\": \"https://placehold.co/800x450/ffffff/000000.png?text=SONG%0AVS%0AFIGUEIREDO%0AUFC%20FIGHT%20NIGHT&font=Oswald\",\n          \"url\": \"https://livecdn-bp-iptv.rumsport7.live/live_abr/53768_abrhd.m3u8?is_vip=false&token=5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5&x-sign=a1ccd1b6799cc9fb8e0b3b4f32cb7ec0&x-time=1780148820\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 24,\n          \"name\": \"Baltic Sea Darts Open | Baltic Sea Darts Open [Server 1]\",\n          \"logo\": \"https://placehold.co/800x450/ffffff/000000.png?text=Baltic%20Sea%20Darts%20Open%0ABaltic%20Sea%20Darts%20Open&font=Oswald\",\n          \"url\": \"https://livecdn-tc-iptv.rumsport10.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=1780235240-Kv4cPTAAP5YTi-5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5-9c5be8d09d616aa6549184cd64849b7a\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 25,\n          \"name\": \"Baltic Sea Darts Open | Baltic Sea Darts Open [Server 2]\",\n          \"logo\": \"https://placehold.co/800x450/ffffff/000000.png?text=Baltic%20Sea%20Darts%20Open%0ABaltic%20Sea%20Darts%20Open&font=Oswald\",\n          \"url\": \"https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5&x-sign=78b5c52aadbe71cf358337db62844180&x-time=1780148820\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 26,\n          \"name\": \"Scotland VS Curaçao | Friendlies [Server 1]\",\n          \"logo\": \"https://placehold.co/800x450/ffffff/000000.png?text=Scotland%0AVS%0ACura%C3%A7ao%0AFriendlies&font=Oswald\",\n          \"url\": \"https://livecdn-bp-iptv.rumsport7.live/live_abr/143070_abrhd.m3u8?is_vip=false&token=5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5&x-sign=1dc750ada727b871c20c848b679c65ae&x-time=1780148820\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 27,\n          \"name\": \"Saracens VS Harlequins | PREM Rugby [Server 1]\",\n          \"logo\": \"https://placehold.co/800x450/ffffff/000000.png?text=Saracens%0AVS%0AHarlequins%0APREM%20Rugby&font=Oswald\",\n          \"url\": \"https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5&x-sign=9c2149597b940e71d2ca8b8e7d724f85&x-time=1780148820\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 28,\n          \"name\": \"Montauban VS Stade Rochelais | Top 14 [Server 1]\",\n          \"logo\": \"https://placehold.co/800x450/ffffff/000000.png?text=Montauban%0AVS%0AStade%20Rochelais%0ATop%2014&font=Oswald\",\n          \"url\": \"https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1780235261-Kv4cPTAAP5YTi-5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5-5743610dd51b3fa77710ebf8655fde3b\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 29,\n          \"name\": \"Montauban VS Stade Rochelais | Top 14 [Server 2]\",\n          \"logo\": \"https://placehold.co/800x450/ffffff/000000.png?text=Montauban%0AVS%0AStade%20Rochelais%0ATop%2014&font=Oswald\",\n          \"url\": \"https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5&x-sign=eaa8404e470e3a5806cbd9f90beb7755&x-time=1780148820\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 30,\n          \"name\": \"Super Rugby Pacific | Super Rugby Pacific [Server 1]\",\n          \"logo\": \"https://placehold.co/800x450/ffffff/000000.png?text=Super%20Rugby%20Pacific%0ASuper%20Rugby%20Pacific&font=Oswald\",\n          \"url\": \"https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5&x-sign=7900c4f867ee1f034e1fc4875ac28c7c&x-time=1780148820\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 31,\n          \"name\": \"vs | PREM Rugby [Server 1]\",\n          \"logo\": \"https://placehold.co/800x450/ffffff/000000.png?text=vs%0APREM%20Rugby&font=Oswald\",\n          \"url\": \"https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1780235276-Kv4cPTAAP5YTi-5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5-a5fe8a8d17dfaf39be3f371e2a7c63d9\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 32,\n          \"name\": \"vs | PREM Rugby [Server 2]\",\n          \"logo\": \"https://placehold.co/800x450/ffffff/000000.png?text=vs%0APREM%20Rugby&font=Oswald\",\n          \"url\": \"https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5&x-sign=9c2149597b940e71d2ca8b8e7d724f85&x-time=1780148820\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 33,\n          \"name\": \"T Sports HD\",\n          \"logo\": \"https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4\",\n          \"url\": \"https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1779178079&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=d3b6774fbd416803ca328adea837af88\",\n          \"quality\": \"HD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 34,\n          \"name\": \"A sports\",\n          \"logo\": \"https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b\",\n          \"url\": \"https://tvsen6.aynaott.com/asports/index.m3u8?e=1779178079&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=14dc3f04ef5f0057c16df8ae84e40649\",\n          \"quality\": \"HD\",\n          \"language\": \"UR\"\n        },\n        {\n          \"id\": 35,\n          \"name\": \"Willow TV\",\n          \"logo\": \"https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788\",\n          \"url\": \"https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1779178079&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=d71d71025ad8ed99266bb333137dc3e0\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 36,\n          \"name\": \"PTV Sports\",\n          \"logo\": \"https://s3.aynaott.com/storage/9d9d7cbfba5a8ceea648bbd963ad1014\",\n          \"url\": \"https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1779178079&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=d02d88622dfe7b0b13c57ee1f8478d01\",\n          \"quality\": \"HD\",\n          \"language\": \"UR\"\n        },\n        {\n          \"id\": 37,\n          \"name\": \"Fox Sports 2\",\n          \"logo\": \"https://s3.aynaott.com/storage/da4282cd107cc3d40efadae488b187e5\",\n          \"url\": \"https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1779178079&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=9e600e940691a66c4bee9e457cdfc4ee\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 38,\n          \"name\": \"Sports First TV\",\n          \"logo\": \"https://s3.aynaott.com/storage/748d28752dcf95740561f1ac39e15fc3\",\n          \"url\": \"https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 39,\n          \"name\": \"NBC Sports\",\n          \"logo\": \"https://s3.aynaott.com/storage/0a241a80bf51d2c3b3722531706ce086\",\n          \"url\": \"https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 40,\n          \"name\": \"Bein Sports\",\n          \"logo\": \"https://s3.aynaott.com/storage/04a56bc13c4c486ad4a4d82a1e00fd73\",\n          \"url\": \"http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 41,\n          \"name\": \"Sports Grid\",\n          \"logo\": \"https://s3.aynaott.com/storage/1aa37e387ed56a1260b285558eec7c46\",\n          \"url\": \"https://tvsen6.aynaott.com/SportsGrid/index.m3u8?e=1779178079&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=55500eb654da9c8454f0bfe2d856e93c\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 42,\n          \"name\": \"Goal TV\",\n          \"logo\": \"https://s3.aynaott.com/storage/495e1816602db61aa4c2a348a257bd0a\",\n          \"url\": \"https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 43,\n          \"name\": \"TSN 1\",\n          \"logo\": \"https://s3.aynaott.com/storage/59fe7ff434fed04ecec29b4d737ebc95\",\n          \"url\": \"https://tvsen7.aynaott.com/tsn1/index.m3u8?e=1779178080&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=8ab531a65060b2e807093e73f2ce403c\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 44,\n          \"name\": \"TSN 2\",\n          \"logo\": \"https://s3.aynaott.com/storage/17642cb60c2af7fc36ca1e08cc54fdae\",\n          \"url\": \"https://tvsen7.aynaott.com/tsn2/index.m3u8?e=1779178080&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=a9958bf219db1529a96e1f8966c52ae9\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 45,\n          \"name\": \"TSN 3\",\n          \"logo\": \"https://s3.aynaott.com/storage/1cb10107a47db353e35ad78d3160eda7\",\n          \"url\": \"https://tvsen7.aynaott.com/tsn3/index.m3u8?e=1779178080&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=39659dc60e60f48fb81aaf7e8f4eba8c\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 46,\n          \"name\": \"Xtrem Sports\",\n          \"logo\": \"https://s3.aynaott.com/storage/e1749cf3040f11c63e722c941f213927\",\n          \"url\": \"https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 47,\n          \"name\": \"Golf Channel\",\n          \"logo\": \"https://s3.aynaott.com/storage/edb73991516696dfd53efbd32d80ca58\",\n          \"url\": \"https://tvsen6.aynaott.com/golfchannel/index.m3u8?e=1779178080&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=970a386a10de2a09f05c4bfa8ecad1ec\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 48,\n          \"name\": \"WOF 1\",\n          \"logo\": \"https://s3.aynaott.com/storage/1a580ee2636a0c4761e623bc131ba7a6\",\n          \"url\": \"https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 49,\n          \"name\": \"NFL Network\",\n          \"logo\": \"https://s3.aynaott.com/storage/79f1ee920d6931a767ae0030e1c7c12b\",\n          \"url\": \"https://tvsen6.aynaott.com/nfl/index.m3u8?e=1779178080&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=d73a6007fe23643b3e71ceb20131c862\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 50,\n          \"name\": \"Talk Sport\",\n          \"logo\": \"https://s3.aynaott.com/storage/5128cd32518d5a9ba7a37e21947fd8fd\",\n          \"url\": \"https://tvsen6.aynaott.com/talkSPORT/index.m3u8?e=1779178080&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=1fe0d91a8737c0a637f2b6bc69d3f96d\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 51,\n          \"name\": \"KTV Sport Plus\",\n          \"logo\": \"https://s3.aynaott.com/storage/b54495ee3cdd53ddaa19d1f98120f488\",\n          \"url\": \"https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"AR\"\n        },\n        {\n          \"id\": 52,\n          \"name\": \"Marquee Sports Network\",\n          \"logo\": \"https://s3.aynaott.com/storage/66bdaa21aba96de6d32a3515715f7502\",\n          \"url\": \"https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8?e=1779178080&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=0ed81755c9cb82026c7b9dc512eeb981\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 53,\n          \"name\": \"More Then Sports TV\",\n          \"logo\": \"https://s3.aynaott.com/storage/39174e32d4f8d29a95c881637fe1ecdb\",\n          \"url\": \"https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 54,\n          \"name\": \"DD Sports\",\n          \"logo\": \"https://s3.aynaott.com/storage/188500190395c4de0e506d518925dcc4\",\n          \"url\": \"https://cdn-6.pishow.tv/live/13/master.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"HI\"\n        },\n        {\n          \"id\": 55,\n          \"name\": \"Bahrain Sports 1\",\n          \"logo\": \"https://s3.aynaott.com/storage/f55bea3263be1af187fe1122e4f44142\",\n          \"url\": \"https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"AR\"\n        },\n        {\n          \"id\": 56,\n          \"name\": \"Oman Sports TV\",\n          \"logo\": \"https://s3.aynaott.com/storage/33f87783637fc95fdb8837ba9344c9e9\",\n          \"url\": \"https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"AR\"\n        },\n        {\n          \"id\": 57,\n          \"name\": \"speed sports 1\",\n          \"logo\": \"https://s3.aynaott.com/storage/06f5b193bfa4d31310ee934eb3c2222e\",\n          \"url\": \"https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 58,\n          \"name\": \"Sports Fishing TV\",\n          \"logo\": \"https://s3.aynaott.com/storage/fede32688e783945fed0473f3b0daf23\",\n          \"url\": \"https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 59,\n          \"name\": \"Espn\",\n          \"logo\": \"https://s3.aynaott.com/storage/b46df1959322aa48d270a6b163234c76\",\n          \"url\": \"https://tvsen5.aynaott.com/espn/index.m3u8?e=1779178081&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=ac1333a1a000ec1bf5bd537f39f1e9ff\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 60,\n          \"name\": \"Bleav Football\",\n          \"logo\": \"https://s3.aynaott.com/storage/030ec528e912afb9a2ec3b4c5167a928\",\n          \"url\": \"https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 61,\n          \"name\": \"Cricket Gold\",\n          \"logo\": \"https://s3.aynaott.com/storage/7d20b575edc4e4b5276faa8c246e72a4\",\n          \"url\": \"https://tvsen6.aynaott.com/CricketGold/index.m3u8?e=1779178081&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=bc2bedc51c7fb505086d3c7bf06b2dde\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 62,\n          \"name\": \"BT Sports 2\",\n          \"logo\": \"https://s3.aynaott.com/storage/0b6e5ad3267e5a5897abbe8f3be7b78a\",\n          \"url\": \"https://tvsen6.aynaott.com/btSport2/index.m3u8?e=1779178081&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=b2ce60521b2057ba9e34e50a58d4210b\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 63,\n          \"name\": \"TNT Sport 1\",\n          \"logo\": \"https://s3.aynaott.com/storage/a3d1a4112bc7c6ee337871b58449542c\",\n          \"url\": \"https://tvsen6.aynaott.com/btSport1/index.m3u8?e=1779178082&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=9fba39910ec635a5cf470f97ff2b7c71\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 64,\n          \"name\": \"Red Bull TV\",\n          \"logo\": \"https://cdn.freebiesupply.com/logos/thumbs/2x/red-bull-tv-logo.png\",\n          \"url\": \"https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 65,\n          \"name\": \"Red Bull TV UK\",\n          \"logo\": \"https://w7.pngwing.com/pngs/758/454/png-transparent-red-bull-logo-red-bull-music-academy-energy-drink-red-bull-tv-bull-mammal-animals-cat-like-mammal-thumbnail.png\",\n          \"url\": \"https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 66,\n          \"name\": \"Willow HD\",\n          \"logo\": \"https://i.ibb.co/rR4bWXrY/Willow-Sports.png\",\n          \"url\": \"https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 67,\n          \"name\": \"IPL (Bangla)\",\n          \"logo\": \"https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Indian_Premier_League_Official_Logo.svg/500px-Indian_Premier_League_Official_Logo.svg.png\",\n          \"url\": \"http://premimum.online/live/jen12345/jen54321/705160.ts\",\n          \"quality\": \"SD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 68,\n          \"name\": \"Live Sports-1\",\n          \"logo\": \"http://dds.oncast.me/img/logo/sp1.png\",\n          \"url\": \"http://135.125.238.26:8080/catena-36-1149991-streamer-nz_sky_sport_2/video.m3u8?token=f54abc11fcaeb75c0368edb767264658\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 69,\n          \"name\": \"Live Sports-2\",\n          \"logo\": \"http://dds.oncast.me/img/logo/sp2.png\",\n          \"url\": \"http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1142\",\n          \"quality\": \"SD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 70,\n          \"name\": \"Live Sports-3\",\n          \"logo\": \"http://dds.oncast.me/img/logo/sp3.png\",\n          \"url\": \"http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1139\",\n          \"quality\": \"SD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 71,\n          \"name\": \"T-Sports [1]\",\n          \"logo\": \"https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png\",\n          \"url\": \"http://116.204.149.16/t_sports/index.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 72,\n          \"name\": \"T-Sports [2]\",\n          \"logo\": \"https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png\",\n          \"url\": \"http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8\",\n          \"quality\": \"SD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 73,\n          \"name\": \"T-Sports [3]\",\n          \"logo\": \"https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png\",\n          \"url\": \"http://147.93.154.65/Bein3/index.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 74,\n          \"name\": \"Star Sports 1\",\n          \"logo\": \"https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg\",\n          \"url\": \"http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1488099\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 75,\n          \"name\": \"Star Sports 1-[2]\",\n          \"logo\": \"https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg\",\n          \"url\": \"https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 76,\n          \"name\": \"Star Sports-1 Hindi\",\n          \"logo\": \"https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg\",\n          \"url\": \"https://starsportshindiii.pages.dev/index.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"HI\"\n        },\n        {\n          \"id\": 77,\n          \"name\": \"Star Sports-2\",\n          \"logo\": \"https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg\",\n          \"url\": \"http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1370.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 78,\n          \"name\": \"Star Sports 2 (Alt)\",\n          \"logo\": \"https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg\",\n          \"url\": \"http://89.187.189.98/STARSPORTS2HD/index.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 79,\n          \"name\": \"Star Sports 3\",\n          \"logo\": \"https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest?cb=20191214234112\",\n          \"url\": \"http://89.187.189.98/STARSPORTS3/index.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 80,\n          \"name\": \"Star Sports Select 1\",\n          \"logo\": \"https://imgur.com/ZTxVYed.png\",\n          \"url\": \"http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276734&extension=.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 81,\n          \"name\": \"Star Sports Select 2\",\n          \"logo\": \"https://imgur.com/pFgUCZF.png\",\n          \"url\": \"http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276735&extension=.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 82,\n          \"name\": \"Sony Sports-1 HD\",\n          \"logo\": \"https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png\",\n          \"url\": \"http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276737&extension=.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 83,\n          \"name\": \"Sony Sports-2 HD\",\n          \"logo\": \"https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png\",\n          \"url\": \"http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276738&extension=.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 84,\n          \"name\": \"Sony Sports-3 HD\",\n          \"logo\": \"https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png\",\n          \"url\": \"http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276739&extension=.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 85,\n          \"name\": \"Sony Sports-5 SD\",\n          \"logo\": \"https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png\",\n          \"url\": \"http://103.175.242.10:8080/sonyten5/index.m3u8\",\n          \"quality\": \"SD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 86,\n          \"name\": \"Sony Sports-5 HD\",\n          \"logo\": \"https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png\",\n          \"url\": \"http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276728&extension=.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 87,\n          \"name\": \"PTV Sports (Alt Link)\",\n          \"logo\": \"https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png\",\n          \"url\": \"http://66.102.120.18:8000/play/a04w/index.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"UR\"\n        },\n        {\n          \"id\": 88,\n          \"name\": \"Ten Sports\",\n          \"logo\": \"https://iconape.com/wp-content/files/da/323865/png/323865.png\",\n          \"url\": \"http://filex.tv:8080/live/Multicity/1234/52106.ts\",\n          \"quality\": \"SD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 89,\n          \"name\": \"A Sports (Alt Link)\",\n          \"logo\": \"https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png\",\n          \"url\": \"http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/804\",\n          \"quality\": \"HD\",\n          \"language\": \"UR\"\n        },\n        {\n          \"id\": 90,\n          \"name\": \"Willow HD (Alternative 1)\",\n          \"logo\": \"https://aimages.willow.tv/wlo_logo_200_200.jpg\",\n          \"url\": \"https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 91,\n          \"name\": \"Willow HD-2\",\n          \"logo\": \"https://aimages.willow.tv/wlo_logo_200_200.jpg\",\n          \"url\": \"http://filex.tv:8080/live/Multicity/1234/52109.ts\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 92,\n          \"name\": \"FOX Cricket 501\",\n          \"logo\": \"https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png\",\n          \"url\": \"http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 93,\n          \"name\": \"Astro Cricket\",\n          \"logo\": \"https://aimages.willow.tv/wlo_logo_200_200.jpg\",\n          \"url\": \"http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1488091\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 94,\n          \"name\": \"RTA SPORTS\",\n          \"logo\": \"https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png\",\n          \"url\": \"https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 95,\n          \"name\": \"Super Sport Cricket\",\n          \"logo\": \"https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png\",\n          \"url\": \"http://b1g.ooo:80/Arun/123456/299944\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 96,\n          \"name\": \"BeIN Sports Extra\",\n          \"logo\": \"https://static.epg.best/qa/beINSports1.qa.png\",\n          \"url\": \"https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 97,\n          \"name\": \"DD Sports Live\",\n          \"logo\": \"\",\n          \"url\": \"https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"HI\"\n        },\n        {\n          \"id\": 98,\n          \"name\": \"Cowboy tv\",\n          \"logo\": \"\",\n          \"url\": \"https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 99,\n          \"name\": \"Rwanda Vs Botswana | ICC Men's T20 WC\",\n          \"logo\": \"https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png\",\n          \"url\": \"https://bd-mc-fblive.fancode.com/mumbai/142927_english_hls_46d60607fc24413_1ta-di_h264/index.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 100,\n          \"name\": \"Bangladesh Women Vs Scotland Women | Tri-Series\",\n          \"logo\": \"https://www.fancode.com/skillup-uploads/cms-media/SC-W_BD-W.jpg\",\n          \"url\": \"https://bd-mc-fblive.fancode.com/mumbai/143003_english_hls_a43a14b18940033_1ta-di_h264/index.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 101,\n          \"name\": \"India Vs Zimbabwe | Unity Cup 2026\",\n          \"logo\": \"https://www.fancode.com/skillup-uploads/cms-media/India-vs-Zimbabwe_fc-web.jpg\",\n          \"url\": \"https://bd-mc-fblive.fancode.com/mumbai/142668_english_hls_6f3ac729b210192_1ta-di_h264/index.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 102,\n          \"name\": \"Italy Gp | BREMBO GRAND PRIX OF ITALY 2026\",\n          \"logo\": \"https://www.fancode.com/skillup-uploads/cms-media/BREMBO-GRAND-PRIX-OF-ITALY-2026-old.png\",\n          \"url\": \"https://bd-mc-fblive.fancode.com/mumbai/139946_english_hls_5797e10a2635939_1ta-di_h264/index.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 103,\n          \"name\": \"Court Philippe Chatrier | Roland Garros 2026\",\n          \"logo\": \"https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg\",\n          \"url\": \"https://dai.google.com/linear/hls/event/alqtTrVWQeuxHd8fbw-Rmw/master.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 104,\n          \"name\": \"Day 3 Main Feed | Charles Schwab Challenge 2026\",\n          \"logo\": \"https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg\",\n          \"url\": \"https://bd-mc-fblive.fancode.com/mumbai/142897_english_hls_cf3c7cefd948526_1ta-di_h264/index.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 105,\n          \"name\": \"Day 3 Featured Holes | Charles Schwab Challenge\",\n          \"logo\": \"https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg\",\n          \"url\": \"https://bd-mc-fblive.fancode.com/mumbai/142900_english_hls_6f5ceeb0e098411_1ta-di_h264/index.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 106,\n          \"name\": \"Day 3 Featured Groups | Charles Schwab Challenge\",\n          \"logo\": \"https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg\",\n          \"url\": \"https://bd-mc-fblive.fancode.com/mumbai/142899_english_hls_8fabe9b13036316_1ta-di_h264/index.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 107,\n          \"name\": \"Suzanne Lenglen Live | French Open 2026\",\n          \"logo\": \"https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800054021020x576.jpg\",\n          \"url\": \"https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 108,\n          \"name\": \"World Feed Live | French Open 2026\",\n          \"logo\": \"https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800087211020x576.jpg\",\n          \"url\": \"https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 109,\n          \"name\": \"Simonne Mathieu | French Open 2026\",\n          \"logo\": \"https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800050141020x576.jpg\",\n          \"url\": \"https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 110,\n          \"name\": \"Court 14 Live | French Open 2026\",\n          \"logo\": \"https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800051941020x576.jpg\",\n          \"url\": \"https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 111,\n          \"name\": \"Philippe Chatrier Live | French Open 2026\",\n          \"logo\": \"https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800089681020x576.jpg\",\n          \"url\": \"https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 112,\n          \"name\": \"Song vs Figueiredo | UFC 2026 (Tapmad)\",\n          \"logo\": \"https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17796943161020x576.jpg\",\n          \"url\": \"https://premierleagpl23.akamaized.net/hls/live/2107108/vertical-backup312/master.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 113,\n          \"name\": \"GT2 European Series - Race 1 Live | GT World Challenge\",\n          \"logo\": \"https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800119971020x576.jpg\",\n          \"url\": \"https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 114,\n          \"name\": \"Pakistan vs Australia Live | Australia Tour of Pakistan\",\n          \"logo\": \"https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17798637001020x576.jpg\",\n          \"url\": \"https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 115,\n          \"name\": \"Scotland vs Curaco | Qualifiers FIFA World Cup 2026\",\n          \"logo\": \"https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17799101161020x576.jpg\",\n          \"url\": \"https://premierleagpl23.akamaized.net/hls/live/2107108/testtapmad/master.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 116,\n          \"name\": \"Sprint Race 1 - Italy Live | UIM F1H2O\",\n          \"logo\": \"https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17801027221020x576.jpg\",\n          \"url\": \"https://premierleagpl23.akamaized.net/hls/live/2107108/T@p305t@P!23@25!95/master.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        }\n      ]\n    },\n    {\n      \"id\": \"bangla\",\n      \"name\": \"Bangla Channels\",\n      \"channels\": [\n        {\n          \"id\": 117,\n          \"name\": \"Zee Bangla HD\",\n          \"logo\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/%E0%A6%9C%E0%A6%BF_%E0%A6%BC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.svg/500px-%E0%A6%9C%E0%A6%BF_%E0%A6%BC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.svg.png\",\n          \"url\": \"https://padmaonline.duckdns.org:8088/ZeeBanglaHD/index.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 118,\n          \"name\": \"Star Jalsha (BC)\",\n          \"logo\": \"https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png?20230625063343\",\n          \"url\": \"https://tvsen3.aynaott.com/n64PH4YL/tracks-v1a1/mono.ts.m3u8\",\n          \"quality\": \"SD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 119,\n          \"name\": \"Colors Bangla HD\",\n          \"logo\": \"https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png?20220118000106\",\n          \"url\": \"https://padmaonline.duckdns.org:8088/ColorsBanglaHD/tracks-v1a1/mono.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 120,\n          \"name\": \"Enterr10 Bangla\",\n          \"logo\": \"https://cdn.smartads.in/images/product/television/Enterr10-Bangla.png\",\n          \"url\": \"https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8\",\n          \"quality\": \"SD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 121,\n          \"name\": \"Bengali Beats\",\n          \"logo\": \"https://raw.githubusercontent.com/MRM3UK/FanzoneLive/refs/heads/main/logo/file_0000000051787209ac49b199a548c78f.png\",\n          \"url\": \"https://tplay.live/originals/bengali-beats/index.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 122,\n          \"name\": \"BTV\",\n          \"logo\": \"https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png\",\n          \"url\": \"https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8\",\n          \"quality\": \"SD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 123,\n          \"name\": \"Somoy TV\",\n          \"logo\": \"https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png\",\n          \"url\": \"https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 124,\n          \"name\": \"Jamuna TV\",\n          \"logo\": \"https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png\",\n          \"url\": \"https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 125,\n          \"name\": \"Channel 24\",\n          \"logo\": \"https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png\",\n          \"url\": \"https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 126,\n          \"name\": \"Ekattor TV\",\n          \"logo\": \"https://s4.gifyu.com/images/imagea02f4314e761661d.png\",\n          \"url\": \"https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 127,\n          \"name\": \"ATN News\",\n          \"logo\": \"https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png\",\n          \"url\": \"https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 128,\n          \"name\": \"Independent TV\",\n          \"logo\": \"https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png\",\n          \"url\": \"https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 129,\n          \"name\": \"Channel i\",\n          \"logo\": \"https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png\",\n          \"url\": \"https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 130,\n          \"name\": \"Star News Bangladesh\",\n          \"logo\": \"https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Star_News_Bangladesh_Logo.svg/960px-Star_News_Bangladesh_Logo.svg.png\",\n          \"url\": \"https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 131,\n          \"name\": \"DBC News\",\n          \"logo\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/%E0%A6%A1%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A6%BF_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E2%80%93%E0%A6%8F%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/500px-%E0%A6%A1%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A6%BF_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E2%80%93%E0%A6%8F%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png\",\n          \"url\": \"https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 132,\n          \"name\": \"News 24\",\n          \"logo\": \"https://upload.wikimedia.org/wikipedia/bn/b/bb/%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C_%E0%A6%9F%E0%A7%8B%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF_%E0%A6%AB%E0%A7%8B%E0%A6%B0%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B_%28%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8%29.webp\",\n          \"url\": \"https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 133,\n          \"name\": \"Maasranga TV\",\n          \"logo\": \"https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg\",\n          \"url\": \"https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 134,\n          \"name\": \"Banglavision\",\n          \"logo\": \"https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/250px-Banglavision.svg.png\",\n          \"url\": \"https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 135,\n          \"name\": \"Deepto TV\",\n          \"logo\": \"https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Logo_of_Deepto_TV.svg/330px-Logo_of_Deepto_TV.svg.png\",\n          \"url\": \"https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 136,\n          \"name\": \"NTV\",\n          \"logo\": \"https://ncdn.ntvbd.com/sites/all/themes/sloth/logo.png\",\n          \"url\": \"https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 137,\n          \"name\": \"RTV\",\n          \"logo\": \"https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/500px-Rtv_bangladesh.svg.png\",\n          \"url\": \"https://tvsen6.aynaott.com/rtv/tracks-v1a1/mono.ts.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 138,\n          \"name\": \"Channel 9\",\n          \"logo\": \"https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/500px-Channel9_bd.svg.png\",\n          \"url\": \"https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 139,\n          \"name\": \"Desh TV\",\n          \"logo\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_of_Desh_TV.svg/500px-Logo_of_Desh_TV.svg.png\",\n          \"url\": \"https://bozztv.com/rongo/rongo-DeshTV/tracks-v1a1/mono.m3u8\",\n          \"quality\": \"SD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 140,\n          \"name\": \"Boishakhi TV\",\n          \"logo\": \"https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png\",\n          \"url\": \"https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 141,\n          \"name\": \"Nexus TV\",\n          \"logo\": \"https://www.jagobd.com/wp-content/uploads/2021/07/nexustv.png\",\n          \"url\": \"https://tvsen6.aynaott.com/nexustv/tracks-v1a1/mono.ts.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 142,\n          \"name\": \"Mohona TV\",\n          \"logo\": \"https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/500px-Mohona_tv_Logo.svg.png\",\n          \"url\": \"https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8\",\n          \"quality\": \"SD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 143,\n          \"name\": \"Bijoy TV\",\n          \"logo\": \"https://i.ibb.co/DP1GSwB3/Bijoy-TV.png\",\n          \"url\": \"https://stream.ottplus.live/live/bijoy_tv_abr/live/bijoy_tv_480/chunks.m3u8\",\n          \"quality\": \"SD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 144,\n          \"name\": \"Global TV\",\n          \"logo\": \"https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Global_Television_Logo_BD.svg/500px-Global_Television_Logo_BD.svg.png\",\n          \"url\": \"https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.m3u8\",\n          \"quality\": \"SD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 145,\n          \"name\": \"Channel 1\",\n          \"logo\": \"https://i.ibb.co/N6HbH5rH/Channel-One-TV.png\",\n          \"url\": \"https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8\",\n          \"quality\": \"SD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 146,\n          \"name\": \"Movie Bangla\",\n          \"logo\": \"https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Movie_Bangla.png\",\n          \"url\": \"http://alvetv.com/mbtv/8080/index.m3u8\",\n          \"quality\": \"SD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 147,\n          \"name\": \"Islamic TV\",\n          \"logo\": \"https://upload.wikimedia.org/wikipedia/bn/1/1e/%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.gif\",\n          \"url\": \"https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8\",\n          \"quality\": \"SD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 148,\n          \"name\": \"Deen TV\",\n          \"logo\": \"https://i.ibb.co/fYTLgjDQ/Deen-TV.png\",\n          \"url\": \"https://tvsen7.aynaott.com/deen/tracks-v1a1/mono.ts.m3u8\",\n          \"quality\": \"SD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 149,\n          \"name\": \"Makkah Live\",\n          \"logo\": \"https://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg\",\n          \"url\": \"https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"AR\"\n        }\n      ]\n    },\n    {\n      \"id\": \"kids\",\n      \"name\": \"Kids\",\n      \"channels\": [\n        {\n          \"id\": 150,\n          \"name\": \"Cartoon Network\",\n          \"logo\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/500px-Cartoon_Network_2010_logo.svg.png\",\n          \"url\": \"https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 151,\n          \"name\": \"Nikky\",\n          \"logo\": \"https://cdnhost.akashbd.net/assets/uploads/channels_images/1770007467-26803465.png\",\n          \"url\": \"https://nomawnoijl.gpcdn.net/akash/nikky/chunks.m3u8\",\n          \"quality\": \"SD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 152,\n          \"name\": \"Funny Junior HD\",\n          \"logo\": \"https://i.ibb.co/CsvjtFmt/Funny-Junior.png\",\n          \"url\": \"https://nomawnoijl.gpcdn.net/akash/funnyjunior/chunks.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 153,\n          \"name\": \"Joy TV\",\n          \"logo\": \"https://i.ibb.co/xK5mcJjD/Joy-TV.png\",\n          \"url\": \"https://nomawnoijl.gpcdn.net/akash/joy/chunks.m3u8\",\n          \"quality\": \"SD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 154,\n          \"name\": \"Buddy Star HD\",\n          \"logo\": \"https://i.ibb.co/xtLcqRGt/Buddy-Star-HD.png\",\n          \"url\": \"https://nomawnoijl.gpcdn.net/akash/buddystar/chunks.m3u8\",\n          \"quality\": \"HD\",\n          \"language\": \"EN\"\n        }\n      ]\n    },\n    {\n      \"id\": \"radio\",\n      \"name\": \"FM Radio\",\n      \"channels\": [\n        {\n          \"id\": 155,\n          \"name\": \"Dhaka FM\",\n          \"logo\": \"https://cdn.instant.audio/images/logos/radio-bd-com/dhaka.png\",\n          \"url\": \"http://118.179.219.244:8000/;\",\n          \"quality\": \"SD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 156,\n          \"name\": \"Radio Bangla Net\",\n          \"logo\": \"https://cdn.instant.audio/images/logos/radio-bd-com/bangla-net.png\",\n          \"url\": \"https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3563475_SC\",\n          \"quality\": \"SD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 157,\n          \"name\": \"BBC Bangla\",\n          \"logo\": \"https://cdn.instant.audio/images/logos/radio-bd-com/bbc-bangla.png\",\n          \"url\": \"https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/cellular_main_sd_abr_v2/cfs/bbc_world_service.mpd\",\n          \"quality\": \"SD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 158,\n          \"name\": \"Radio GoonGoon\",\n          \"logo\": \"https://cdn.instant.audio/images/logos/radio-bd-com/goongoon-hd-sound.png\",\n          \"url\": \"https://audio.streamcast.xyz/radio/8000/radio.mp3\",\n          \"quality\": \"SD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 159,\n          \"name\": \"Bangladesh Betar\",\n          \"logo\": \"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwB7VrdMk9Dcmw5OWzADyfTfHEECFheXfQRg&s\",\n          \"url\": \"https://as1.digitalsynapsebd.com/proxy/bbrajmw/stream/1/\",\n          \"quality\": \"SD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 160,\n          \"name\": \"Spice FM\",\n          \"logo\": \"https://spicefmbd.com/logospice.png\",\n          \"url\": \"https://stream.spicefmbd.com/stream.m3u8\",\n          \"quality\": \"SD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 161,\n          \"name\": \"Radio Amar\",\n          \"logo\": \"https://spicefmbd.com/logospice.png\",\n          \"url\": \"https://amorfm_192.streampartner.nl/stream\",\n          \"quality\": \"SD\",\n          \"language\": \"BN\"\n        },\n        {\n          \"id\": 162,\n          \"name\": \"Big FM\",\n          \"logo\": \"https://spicefmbd.com/logospice.png\",\n          \"url\": \"https://stream-155.zeno.fm/dbstwo3dvhhtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkYnN0d28zZHZoaHR2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ildyc0FrY1pjVG9TRWNtb0VWaVVSeVEiLCJpYXQiOjE3NjA1MzAxMDYsImV4cCI6MTc2MDUzMDE2Nn0.J8jfwwhlPxuUeiDtSglHlvNTltpWVhuNxK2cHPy_4to\",\n          \"quality\": \"SD\",\n          \"language\": \"EN\"\n        },\n        {\n          \"id\": 163,\n          \"name\": \"Radio Mirchi\",\n          \"logo\": \"https://m.economictimes.com/thumb/msid-71679942,width-1200,height-900,resizemode-4,imgsize-42753/radio-mirchi-agencies.jpg\",\n          \"url\": \"https://eu8.fastcast4u.com/proxy/clyedupq?mp=%2F1?aw_0_req_lsid=2c0fae177108c9a42a7cf24878625444\",\n          \"quality\": \"SD\",\n          \"language\": \"HI\"\n        },\n        {\n          \"id\": 164,\n          \"name\": \"Radio City\",\n          \"logo\": \"https://spicefmbd.com/logospice.png\",\n          \"url\": \"https://n0b.radiojar.com/gmwyu8xdrxquv?rj-ttl=5&rj-tok=AAABmefVT0cAEC8yJftxyPNsng\",\n          \"quality\": \"SD\",\n          \"language\": \"HI\"\n        }\n      ]\n    }\n  ]\n}"
-  }
+  "updated": "2026-05-30",
+  "categories": [
+    {
+      "id": "live",
+      "name": "Live Sports",
+      "channels": [
+        {
+          "id": 1,
+          "name": "ES1. Giro d'Italia, Stage 20 - Giro d'Italia [238]",
+          "logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+          "url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/238_abrhd.m3u8?is_vip=false&token=89fe9d6ac50c1ecb6dd03a867fab94b613552954&x-sign=3283d6e57114a288889c9d7ff1cbd81d&x-time=1780148700",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 2,
+          "name": "Day 7 | Feed 2 - Roland Garros [27] (Server 1)",
+          "logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+          "url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=89fe9d6ac50c1ecb6dd03a867fab94b613552954&x-sign=605b660443acd5cdb7b15b0d299c2759&x-time=1780148700",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 3,
+          "name": "Day 7 | Feed 2 - Roland Garros [27] (Server 2)",
+          "logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1780235125-Kv4cPTAAP5YTi-89fe9d6ac50c1ecb6dd03a867fab94b613552954-c16996680a6f5619603b5bd55c19c498",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN",
+          "headers": {
+            "Referer": "https://iframe.rumsport7.live/"
+          }
+        },
+        {
+          "id": 4,
+          "name": "Day 7 | Feed 3 - Roland Garros [7] (Server 1)",
+          "logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+          "url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=89fe9d6ac50c1ecb6dd03a867fab94b613552954&x-sign=99dbf6dac810a906efad5611a0bf5fe6&x-time=1780148700",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 5,
+          "name": "Day 7 | Feed 3 - Roland Garros [7] (Server 2)",
+          "logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1780235132-Kv4cPTAAP5YTi-89fe9d6ac50c1ecb6dd03a867fab94b613552954-367a25c2699a0a4ac6b078237d7af7e3",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN",
+          "headers": {
+            "Referer": "https://iframe.rumsport7.live/"
+          }
+        },
+        {
+          "id": 6,
+          "name": "Day 7 - Roland Garros [323]",
+          "logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+          "url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/323_abrhd.m3u8?is_vip=false&token=89fe9d6ac50c1ecb6dd03a867fab94b613552954&x-sign=8950035ff83369c427858f865b9a922b&x-time=1780148700",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 7,
+          "name": "Day 7 | Feed 1 - Roland Garros [25] (Server 1)",
+          "logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+          "url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=89fe9d6ac50c1ecb6dd03a867fab94b613552954&x-sign=6638233ed518dad87e9ed0c1aaddda05&x-time=1780148700",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 8,
+          "name": "Day 7 | Feed 1 - Roland Garros [25] (Server 2)",
+          "logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1780235143-Kv4cPTAAP5YTi-89fe9d6ac50c1ecb6dd03a867fab94b613552954-8f54d7249b0e7179ff68b365c63bb203",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN",
+          "headers": {
+            "Referer": "https://iframe.rumsport7.live/"
+          }
+        },
+        {
+          "id": 9,
+          "name": "Day 2 - Afternoon Session - Unknown League [114414]",
+          "logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+          "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=1780235153-Kv4cPTAAP5YTi-89fe9d6ac50c1ecb6dd03a867fab94b613552954-010c0658f7ff0ce8b1112610602fd776",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN",
+          "headers": {
+            "Referer": "https://iframe.rumsport7.live/"
+          }
+        },
+        {
+          "id": 10,
+          "name": "Day 2 - Afternoon Session [114414] (Server 2)",
+          "logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+          "url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=89fe9d6ac50c1ecb6dd03a867fab94b613552954&x-sign=8475d91604cbbb04608b3c6924c96a15&x-time=1780148700",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 11,
+          "name": "Montauban vs Stade Rochelais - Top 14 [24] (Server 1)",
+          "logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1780235173-Kv4cPTAAP5YTi-89fe9d6ac50c1ecb6dd03a867fab94b613552954-7d09f59b2d255ab3bfbabcf83364647f",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN",
+          "headers": {
+            "Referer": "https://iframe.rumsport7.live/"
+          }
+        },
+        {
+          "id": 12,
+          "name": "Northampton vs Gloucester - PREM Rugby [4] (Server 1)",
+          "logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1780235186-Kv4cPTAAP5YTi-89fe9d6ac50c1ecb6dd03a867fab94b613552954-1faaab51e24d5e4403ae6aa2c5d8678f",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN",
+          "headers": {
+            "Referer": "https://iframe.rumsport7.live/"
+          }
+        },
+        {
+          "id": 13,
+          "name": "Day 7 | Feed 3 | Roland Garros [Server 2]",
+          "logo": "https://placehold.co/800x450/ffffff/000000.png?text=Day%207%0AFeed%203%20%7C%20Roland%20Garros&font=Oswald",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1780235215-Kv4cPTAAP5YTi-5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5-8740b253e686253cebaa7eef351baa90",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/"
+          }
+        },
+        {
+          "id": 14,
+          "name": "Day 7 | Roland Garros [Server 1]",
+          "logo": "https://placehold.co/800x450/ffffff/000000.png?text=Day%207%0ARoland%20Garros&font=Oswald",
+          "url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/323_abrhd.m3u8?is_vip=false&token=5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5&x-sign=e7e8eac0a50f1610c6c15db95967afdd&x-time=1780148820",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/"
+          }
+        },
+        {
+          "id": 15,
+          "name": "Day 7 | Feed 1 | Roland Garros [Server 1]",
+          "logo": "https://placehold.co/800x450/ffffff/000000.png?text=Day%207%0AFeed%201%20%7C%20Roland%20Garros&font=Oswald",
+          "url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5&x-sign=a92974c74d7a48c71407be7682752ac3&x-time=1780148820",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/"
+          }
+        },
+        {
+          "id": 16,
+          "name": "Day 7 | Feed 1 | Roland Garros [Server 2]",
+          "logo": "https://placehold.co/800x450/ffffff/000000.png?text=Day%207%0AFeed%201%20%7C%20Roland%20Garros&font=Oswald",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1780235229-Kv4cPTAAP5YTi-5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5-8baaef71853907ebe639ea1cdb71f612",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/"
+          }
+        },
+        {
+          "id": 17,
+          "name": "Baltic Sea Darts Open [Server 1]",
+          "logo": "https://placehold.co/800x450/ffffff/000000.png?text=Baltic%20Sea%20Darts%20Open%0ABaltic%20Sea%20Darts%20Open&font=Oswald",
+          "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=1780235240-Kv4cPTAAP5YTi-5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5-9c5be8d09d616aa6549184cd64849b7a",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/"
+          }
+        },
+        {
+          "id": 18,
+          "name": "Baltic Sea Darts Open [Server 2]",
+          "logo": "https://placehold.co/800x450/ffffff/000000.png?text=Baltic%20Sea%20Darts%20Open%0ABaltic%20Sea%20Darts%20Open&font=Oswald",
+          "url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5&x-sign=78b5c52aadbe71cf358337db62844180&x-time=1780148820",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/"
+          }
+        },
+        {
+          "id": 19,
+          "name": "Montauban VS Stade Rochelais | Top 14 [Server 1]",
+          "logo": "https://placehold.co/800x450/ffffff/000000.png?text=Montauban%0AVS%0AStade%20Rochelais%0ATop%2014&font=Oswald",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1780235261-Kv4cPTAAP5YTi-5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5-5743610dd51b3fa77710ebf8655fde3b",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/"
+          }
+        },
+        {
+          "id": 20,
+          "name": "Montauban VS Stade Rochelais | Top 14 [Server 2]",
+          "logo": "https://placehold.co/800x450/ffffff/000000.png?text=Montauban%0AVS%0AStade%20Rochelais%0ATop%2014&font=Oswald",
+          "url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5&x-sign=eaa8404e470e3a5806cbd9f90beb7755&x-time=1780148820",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/"
+          }
+        },
+        {
+          "id": 21,
+          "name": "vs | PREM Rugby [Server 1]",
+          "logo": "https://placehold.co/800x450/ffffff/000000.png?text=vs%0APREM%20Rugby&font=Oswald",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1780235276-Kv4cPTAAP5YTi-5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5-a5fe8a8d17dfaf39be3f371e2a7c63d9",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/"
+          }
+        },
+        {
+          "id": 22,
+          "name": "vs | PREM Rugby [Server 2]",
+          "logo": "https://placehold.co/800x450/ffffff/000000.png?text=vs%0APREM%20Rugby&font=Oswald",
+          "url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5&x-sign=9c2149597b940e71d2ca8b8e7d724f85&x-time=1780148820",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/"
+          }
+        },
+        {
+          "id": 23,
+          "name": "Live Sports-1",
+          "logo": "http://dds.oncast.me/img/logo/sp1.png",
+          "url": "http://135.125.238.26:8080/catena-36-1149991-streamer-nz_sky_sport_2/video.m3u8?token=f54abc11fcaeb75c0368edb767264658",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 24,
+          "name": "Live Sports-2",
+          "logo": "http://dds.oncast.me/img/logo/sp2.png",
+          "url": "http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1142",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 25,
+          "name": "Live Sports-3",
+          "logo": "http://dds.oncast.me/img/logo/sp3.png",
+          "url": "http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1139",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 26,
+          "name": "Live Sports-4",
+          "logo": "http://dds.oncast.me/img/logo/sp4.png",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 27,
+          "name": "Live Sports-5",
+          "logo": "http://dds.oncast.me/img/logo/sp5.png",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 28,
+          "name": "Live Sports-6",
+          "logo": "http://dds.oncast.me/img/logo/sp6.png",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 29,
+          "name": "Live Sports-7",
+          "logo": "http://dds.oncast.me/img/logo/sp7.png",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 30,
+          "name": "Live Sports-8 (Asia Cup)",
+          "logo": "http://dds.oncast.me/img/logo/sp8.png",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 31,
+          "name": "Live Sports-9 (Asia Cup)",
+          "logo": "http://dds.oncast.me/img/logo/sp9.png",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 32,
+          "name": "Live Sports-10 (Asia Cup)",
+          "logo": "http://dds.oncast.me/img/logo/sp10.png",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 33,
+          "name": "Sports First TV",
+          "logo": "https://s3.aynaott.com/storage/748d28752dcf95740561f1ac39e15fc3",
+          "url": "https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 34,
+          "name": "NBC Sports",
+          "logo": "https://s3.aynaott.com/storage/0a241a80bf51d2c3b3722531706ce086",
+          "url": "https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 35,
+          "name": "Bein Sports (Server 2)",
+          "logo": "https://s3.aynaott.com/storage/04a56bc13c4c486ad4a4d82a1e00fd73",
+          "url": "http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 36,
+          "name": "Sports Grid",
+          "logo": "https://s3.aynaott.com/storage/1aa37e387ed56a1260b285558eec7c46",
+          "url": "https://tvsen6.aynaott.com/SportsGrid/index.m3u8?e=1779178079&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=55500eb654da9c8454f0bfe2d856e93c",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 37,
+          "name": "Goal TV",
+          "logo": "https://s3.aynaott.com/storage/495e1816602db61aa4c2a348a257bd0a",
+          "url": "https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 38,
+          "name": "Xtrem Sports",
+          "logo": "https://s3.aynaott.com/storage/e1749cf3040f11c63e722c941f213927",
+          "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 39,
+          "name": "WOF 1 (World of Free Sports)",
+          "logo": "https://s3.aynaott.com/storage/1a580ee2636a0c4761e623bc131ba7a6",
+          "url": "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 40,
+          "name": "Cowboy Movie Channel / Cowboy tv",
+          "logo": "https://s3.aynaott.com/storage/cb1ab052f5b733bbf600a7a8e3a1164b",
+          "url": "https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 41,
+          "name": "Cowboy tv (Server 2)",
+          "logo": "",
+          "url": "https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 42,
+          "name": "Red Bull TV",
+          "logo": "https://cdn.freebiesupply.com/logos/thumbs/2x/red-bull-tv-logo.png",
+          "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 43,
+          "name": "Red Bull TV UK",
+          "logo": "https://w7.pngwing.com/pngs/758/454/png-transparent-red-bull-logo-red-bull-music-academy-energy-drink-red-bull-tv-bull-mammal-animals-cat-like-mammal-thumbnail.png",
+          "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 44,
+          "name": "Italy Gp | BREMBO GRAND PRIX OF ITALY 2026 (ENGLISH)",
+          "logo": "https://www.fancode.com/skillup-uploads/cms-media/BREMBO-GRAND-PRIX-OF-ITALY-2026-old.png",
+          "url": "https://bd-mc-fblive.fancode.com/mumbai/139946_english_hls_5797e10a2635939_1ta-di_h264/index.m3u8",
+          "badge": "MotoGP",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 45,
+          "name": "GT2 European Series - Race 1 Live | GT World Challenge EU & Asia 2026",
+          "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17801199711020x576.jpg",
+          "url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8",
+          "badge": "Racing",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 46,
+          "name": "Sprint Race 1 - Italy Live | UIM F1H2O World Championship 2026",
+          "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17801027221020x576.jpg",
+          "url": "https://premierleagpl23.akamaized.net/hls/live/2107108/T@p305t@P!23@25!95/master.m3u8",
+          "badge": "Racing",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 47,
+          "name": "Court Philippe Chatrier | Roland Garros 2026 (ENGLISH)",
+          "logo": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+          "url": "https://dai.google.com/linear/hls/event/alqtTrVWQeuxHd8fbw-Rmw/master.m3u8",
+          "badge": "Tennis",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 48,
+          "name": "Ladies' & Gentlemen's Singles - 3rd Round - Suzanne Lenglen Live | French Open 2026",
+          "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800054021020x576.jpg",
+          "url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8",
+          "badge": "Tennis",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 49,
+          "name": "Ladies' & Gentlemen's Singles - 3rd Round - World Feed Live | French Open 2026",
+          "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800087211020x576.jpg",
+          "url": "https://premierleagpl23.akamaized.net/hls/live/2107108/trackuefa/master.m3u8",
+          "badge": "Tennis",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 50,
+          "name": "Ladies' & Gentlemen's Singles - 3rd Round - Simonne Mathieu | French Open 2026",
+          "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800050141020x576.jpg",
+          "url": "https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8",
+          "badge": "Tennis",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 51,
+          "name": "Ladies, Gentlemen's & Mixed Doubles - 2nd Round - Court 14 Live | French Open 2026",
+          "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800051941020x576.jpg",
+          "url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8",
+          "badge": "Tennis",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 52,
+          "name": "Ladies' & Gentlemen's Singles - 3rd Round - Philippe Chatrier Live | French Open 2026",
+          "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800089681020x576.jpg",
+          "url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8",
+          "badge": "Tennis",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 53,
+          "name": "Day 3 Main Feed | Charles Schwab Challenge 2026 (ENGLISH)",
+          "logo": "https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg",
+          "url": "https://bd-mc-fblive.fancode.com/mumbai/142897_english_hls_cf3c7cefd948526_1ta-di_h264/index.m3u8",
+          "badge": "Golf",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 54,
+          "name": "Day 3 Featured Holes | Charles Schwab Challenge 2026 (ENGLISH)",
+          "logo": "https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg",
+          "url": "https://bd-mc-fblive.fancode.com/mumbai/142900_english_hls_6f5ceeb0e098411_1ta-di_h264/index.m3u8",
+          "badge": "Golf",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 55,
+          "name": "Day 3 Featured Groups | Charles Schwab Challenge 2026 (ENGLISH)",
+          "logo": "https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg",
+          "url": "https://bd-mc-fblive.fancode.com/mumbai/142899_english_hls_8fabe9b13036316_1ta-di_h264/index.m3u8",
+          "badge": "Golf",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 56,
+          "name": "Bein Sports 1 English",
+          "logo": "",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 57,
+          "name": "Bein Sports 2 English",
+          "logo": "",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 58,
+          "name": "Bein Sports 3 English",
+          "logo": "",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 59,
+          "name": "BeIn Sports 1 Premium",
+          "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "AR"
+        },
+        {
+          "id": 60,
+          "name": "BeIn Sports 2 Premium",
+          "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "AR"
+        },
+        {
+          "id": 61,
+          "name": "BeIn Sports 3 Premium",
+          "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "AR"
+        },
+        {
+          "id": 62,
+          "name": "BeIn Sports 1",
+          "logo": "https://static.epg.best/qa/beINSports1.qa.png",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "AR"
+        },
+        {
+          "id": 63,
+          "name": "BeIn Sports 2",
+          "logo": "https://static.epg.best/qa/beINSports2.qa.png",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "AR"
+        },
+        {
+          "id": 64,
+          "name": "BeIn Sports 3",
+          "logo": "https://static.epg.best/qa/beINSports3.qa.png",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "AR"
+        },
+        {
+          "id": 65,
+          "name": "BeIn Sports 4",
+          "logo": "https://static.epg.best/qa/beINSports4.qa.png",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "AR"
+        },
+        {
+          "id": 66,
+          "name": "BeIn Sports 5",
+          "logo": "https://static.epg.best/qa/beINSports5.qa.png",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "AR"
+        },
+        {
+          "id": 67,
+          "name": "BeIn Sports Extra",
+          "logo": "https://static.epg.best/qa/beINSports1.qa.png",
+          "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "ES"
+        },
+        {
+          "id": 68,
+          "name": "Bein Sports 1 Tru",
+          "logo": "https://static.epg.best/qa/beINSports1.qa.png",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "TH"
+        },
+        {
+          "id": 69,
+          "name": "BeIn Sports 2 Tru",
+          "logo": "https://static.epg.best/qa/beINSports1.qa.png",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "TH"
+        },
+        {
+          "id": 70,
+          "name": "BeIn Sports 3 Tru",
+          "logo": "https://static.epg.best/qa/beINSports1.qa.png",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "TH"
+        },
+        {
+          "id": 71,
+          "name": "TruePremier_1",
+          "logo": "https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "TH"
+        },
+        {
+          "id": 72,
+          "name": "TruePremier_2",
+          "logo": "https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "TH"
+        },
+        {
+          "id": 73,
+          "name": "TruePremier_3",
+          "logo": "https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "TH"
+        },
+        {
+          "id": 74,
+          "name": "Dubai Sports 1",
+          "logo": "http://bdiptv.net/assets/images/adsports1.jpg",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "AR"
+        },
+        {
+          "id": 75,
+          "name": "Dubai Sports 2",
+          "logo": "http://bdiptv.net/assets/images/adsports1.jpg",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "AR"
+        },
+        {
+          "id": 76,
+          "name": "Dubai Sports 3",
+          "logo": "http://bdiptv.net/assets/images/adsports1.jpg",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "AR"
+        },
+        {
+          "id": 77,
+          "name": "Ad Sports 2",
+          "logo": "https://live-tv-channels.org/pt-data/uploads/logo/ae-abu-dhabi-sports-2-5918.jpg",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "AR"
+        },
+        {
+          "id": 78,
+          "name": "Ad Sports 3",
+          "logo": "http://bciptv.net/assets/images/adsports3.jpg",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "AR"
+        },
+        {
+          "id": 79,
+          "name": "RO | DIGI SPORT 1 FHD",
+          "logo": "http://s3.i3ns.net/portal/picon/2020-07/93053f4167ff4534d5c36ceb918f1615.png",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "FHD",
+          "language": "RO"
+        },
+        {
+          "id": 80,
+          "name": "RO | DIGI SPORT 2 FHD",
+          "logo": "http://s3.i3ns.net/portal/picon/2020-07/df1803b73d696e77aa97ce6405a102b9.png",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "FHD",
+          "language": "RO"
+        },
+        {
+          "id": 81,
+          "name": "RO | DIGI SPORT 3 FHD",
+          "logo": "http://s3.i3ns.net/portal/picon/2020-07/bd83399052d1011af53a79b4f9b78952.png",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "FHD",
+          "language": "RO"
+        },
+        {
+          "id": 82,
+          "name": "Fitness",
+          "logo": "https://lo1.in/LOGO/CARIBBEAN/NBCGOLF.png",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 83,
+          "name": "FIFA+",
+          "logo": "",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 84,
+          "name": "Racing.com",
+          "logo": "",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 85,
+          "name": "Video",
+          "logo": "",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 86,
+          "name": "TRT",
+          "logo": "",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "TR"
+        },
+        {
+          "id": 87,
+          "name": "FS-1",
+          "logo": "",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 88,
+          "name": "MAT4",
+          "logo": "",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 89,
+          "name": "ESPN",
+          "logo": "https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 90,
+          "name": "Fox Sports",
+          "logo": "https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 91,
+          "name": "TNT-1",
+          "logo": "",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 92,
+          "name": "TNT-2",
+          "logo": "",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 93,
+          "name": "TNT-3",
+          "logo": "",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 94,
+          "name": "TNT-4",
+          "logo": "",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 95,
+          "name": "ERT Sports",
+          "logo": "",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EL"
+        }
+      ]
+    },
+    {
+      "id": "cricket",
+      "name": "Cricket",
+      "channels": [
+        {
+          "id": 96,
+          "name": "Rwanda Vs Botswana | ICC Men's T20 WC Africa Sub Regional Qualifier (ENGLISH)",
+          "logo": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png",
+          "url": "https://bd-mc-fblive.fancode.com/mumbai/142927_english_hls_46d60607fc24413_1ta-di_h264/index.m3u8",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 97,
+          "name": "Bangladesh Women Vs Scotland Women | Scotland Women's T20I Tri-Series 2026 (ENGLISH)",
+          "logo": "https://www.fancode.com/skillup-uploads/cms-media/SC-W_BD-W.jpg",
+          "url": "https://bd-mc-fblive.fancode.com/mumbai/143003_english_hls_a43a14b18940033_1ta-di_h264/index.m3u8",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 98,
+          "name": "Pakistan vs Australia Live | Australia Tour of Pakistan 2026",
+          "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17798637001020x576.jpg",
+          "url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 99,
+          "name": "T Sports HD (Server 1)",
+          "logo": "https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4",
+          "url": "https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1779178079&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=d3b6774fbd416803ca328adea837af88",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "BN"
+        },
+        {
+          "id": 100,
+          "name": "T-Sports [1] (Server 2)",
+          "logo": "https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",
+          "url": "http://116.204.149.16/t_sports/index.m3u8",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "BN"
+        },
+        {
+          "id": 101,
+          "name": "T-Sports [2] (Server 3)",
+          "logo": "https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",
+          "url": "http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "BN"
+        },
+        {
+          "id": 102,
+          "name": "T-Sports [3] (Server 4 - Fallback)",
+          "logo": "https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",
+          "url": "http://147.93.154.65/Bein3/index.m3u8",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "BN"
+        },
+        {
+          "id": 103,
+          "name": "Gazi TV (Server 1)",
+          "logo": "https://s3.aynaott.com/storage/417a833f6d83021c99bfc3d4176610f4",
+          "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1779178086&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=b333afbd54382285e7354363100fac3c",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "BN"
+        },
+        {
+          "id": 104,
+          "name": "GAZI TV (Server 2)",
+          "logo": "https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",
+          "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "BN"
+        },
+        {
+          "id": 105,
+          "name": "IPL (Bangla)",
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Indian_Premier_League_Official_Logo.svg/500px-Indian_Premier_League_Official_Logo.svg.png",
+          "url": "http://premimum.online/live/jen12345/jen54321/705160.ts",
+          "badge": "LIVE",
+          "quality": "SD",
+          "language": "BN"
+        },
+        {
+          "id": 106,
+          "name": "Willow TV / Willow HD (Server 1)",
+          "logo": "https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788",
+          "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1779178079&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=d71d71025ad8ed99266bb333137dc3e0",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 107,
+          "name": "Willow HD (Server 2)",
+          "logo": "https://i.ibb.co/rR4bWXrY/Willow-Sports.png",
+          "url": "https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 108,
+          "name": "Willow HD (Server 3)",
+          "logo": "https://aimages.willow.tv/wlo_logo_200_200.jpg",
+          "url": "https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 109,
+          "name": "Willow HD-2",
+          "logo": "https://aimages.willow.tv/wlo_logo_200_200.jpg",
+          "url": "http://filex.tv:8080/live/Multicity/1234/52109.ts",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 110,
+          "name": "Star Sports 1 (Server 1)",
+          "logo": "https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg",
+          "url": "http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1488099",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 111,
+          "name": "Star Sports 1 (Server 2)",
+          "logo": "https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg",
+          "url": "https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 112,
+          "name": "Star Sports-1 Hindi",
+          "logo": "https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg",
+          "url": "https://starsportshindiii.pages.dev/index.m3u8",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "HI"
+        },
+        {
+          "id": 113,
+          "name": "Star Sports-2 (Server 1)",
+          "logo": "https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg",
+          "url": "http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1370.m3u8",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 114,
+          "name": "Star Sports 2 (Server 2)",
+          "logo": "https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg",
+          "url": "http://89.187.189.98/STARSPORTS2HD/index.m3u8",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 115,
+          "name": "Star Sports 3",
+          "logo": "https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest?cb=20191214234112",
+          "url": "http://89.187.189.98/STARSPORTS3/index.m3u8",
+          "badge": "LIVE",
+          "quality": "SD",
+          "language": "HI"
+        },
+        {
+          "id": 116,
+          "name": "Star Sports Select 1",
+          "logo": "https://imgur.com/ZTxVYed.png",
+          "url": "http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276734&extension=.m3u8",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 117,
+          "name": "Star Sports Select 2",
+          "logo": "https://imgur.com/pFgUCZF.png",
+          "url": "http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276735&extension=.m3u8",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 118,
+          "name": "Sony Sports-1 HD",
+          "logo": "https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png",
+          "url": "http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276737&extension=.m3u8",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 119,
+          "name": "Sony Sports-2 HD",
+          "logo": "https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png",
+          "url": "http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276738&extension=.m3u8",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 120,
+          "name": "Sony Sports-3 HD",
+          "logo": "https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png",
+          "url": "http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276739&extension=.m3u8",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "HI"
+        },
+        {
+          "id": 121,
+          "name": "Sony Sports-5 SD",
+          "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png",
+          "url": "http://103.175.242.10:8080/sonyten5/index.m3u8",
+          "badge": "LIVE",
+          "quality": "SD",
+          "language": "EN"
+        },
+        {
+          "id": 122,
+          "name": "Sony Sports-5 HD",
+          "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png",
+          "url": "http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276728&extension=.m3u8",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 123,
+          "name": "A Sports (Server 1)",
+          "logo": "https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b",
+          "url": "https://tvsen6.aynaott.com/asports/index.m3u8?e=1779178079&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=14dc3f04ef5f0057c16df8ae84e40649",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "UR"
+        },
+        {
+          "id": 124,
+          "name": "A Sports (Server 2)",
+          "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",
+          "url": "http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/804",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "UR"
+        },
+        {
+          "id": 125,
+          "name": "PTV Sports (Server 1)",
+          "logo": "https://s3.aynaott.com/storage/9d9d7cbfba5a8ceea648bbd963ad1014",
+          "url": "https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1779178079&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=d02d88622dfe7b0b13c57ee1f8478d01",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "UR"
+        },
+        {
+          "id": 126,
+          "name": "PTV Sports (Server 2)",
+          "logo": "https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",
+          "url": "http://66.102.120.18:8000/play/a04w/index.m3u8",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "UR"
+        },
+        {
+          "id": 127,
+          "name": "Ten Sports",
+          "logo": "https://iconape.com/wp-content/files/da/323865/png/323865.png",
+          "url": "http://filex.tv:8080/live/Multicity/1234/52106.ts",
+          "badge": "LIVE",
+          "quality": "SD",
+          "language": "UR"
+        },
+        {
+          "id": 128,
+          "name": "Astro Cricket",
+          "logo": "https://aimages.willow.tv/wlo_logo_200_200.jpg",
+          "url": "http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1488091",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 129,
+          "name": "Fox Sports 2",
+          "logo": "https://s3.aynaott.com/storage/da4282cd107cc3d40efadae488b187e5",
+          "url": "https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1779178079&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=9e600e940691a66c4bee9e457cdfc4ee",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 130,
+          "name": "FOX Cricket 501",
+          "logo": "https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png",
+          "url": "http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 131,
+          "name": "Super Sport Cricket",
+          "logo": "https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",
+          "url": "http://b1g.ooo:80/Arun/123456/299944",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 132,
+          "name": "TSN 1",
+          "logo": "https://s3.aynaott.com/storage/59fe7ff434fed04ecec29b4d737ebc95",
+          "url": "https://tvsen7.aynaott.com/tsn1/index.m3u8?e=1779178080&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=8ab531a65060b2e807093e73f2ce403c",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 133,
+          "name": "TSN 2",
+          "logo": "https://s3.aynaott.com/storage/17642cb60c2af7fc36ca1e08cc54fdae",
+          "url": "https://tvsen7.aynaott.com/tsn2/index.m3u8?e=1779178080&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=a9958bf219db1529a96e1f8966c52ae9",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 134,
+          "name": "TSN 3",
+          "logo": "https://s3.aynaott.com/storage/1cb10107a47db353e35ad78d3160eda7",
+          "url": "https://tvsen7.aynaott.com/tsn3/index.m3u8?e=1779178080&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=39659dc60e60f48fb81aaf7e8f4eba8c",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 135,
+          "name": "Cricket Gold",
+          "logo": "https://s3.aynaott.com/storage/7d20b575edc4e4b5276faa8c246e72a4",
+          "url": "https://tvsen6.aynaott.com/CricketGold/index.m3u8?e=1779178081&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=bc2bedc51c7fb505086d3c7bf06b2dde",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 136,
+          "name": "TNT Sport 1",
+          "logo": "https://s3.aynaott.com/storage/a3d1a4112bc7c6ee337871b58449542c",
+          "url": "https://tvsen6.aynaott.com/btSport1/index.m3u8?e=1779178082&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=9fba39910ec635a5cf470f97ff2b7c71",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 137,
+          "name": "BT Sports 2 / TNT Sports 2",
+          "logo": "https://s3.aynaott.com/storage/0b6e5ad3267e5a5897abbe8f3be7b78a",
+          "url": "https://tvsen6.aynaott.com/btSport2/index.m3u8?e=1779178081&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=b2ce60521b2057ba9e34e50a58d4210b",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 138,
+          "name": "Sports-18",
+          "logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Sports18_logo.svg",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 139,
+          "name": "Ten Sports Cricket",
+          "logo": "",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "UR"
+        },
+        {
+          "id": 140,
+          "name": "Willow Extra HD",
+          "logo": "",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 141,
+          "name": "Sony Sports-4",
+          "logo": "https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "TA"
+        },
+        {
+          "id": 142,
+          "name": "Ten Sports (Server 2)",
+          "logo": "",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "UR"
+        },
+        {
+          "id": 143,
+          "name": "Geo Super TV",
+          "logo": "",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "UR"
+        },
+        {
+          "id": 144,
+          "name": "TNS Sports-1",
+          "logo": "",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 145,
+          "name": "TNS Sports-2",
+          "logo": "",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 146,
+          "name": "TNS Sports-3",
+          "logo": "",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 147,
+          "name": "RTA SPORTS",
+          "logo": "",
+          "url": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8",
+          "badge": "LIVE",
+          "quality": "SD",
+          "language": "PS"
+        },
+        {
+          "id": 148,
+          "name": "CricLife-1",
+          "logo": "",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 149,
+          "name": "CricLife-2",
+          "logo": "",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 150,
+          "name": "Sky Sports Cricket",
+          "logo": "https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 151,
+          "name": "Sky Sports Cricket [2]",
+          "logo": "",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 152,
+          "name": "Super Sport Cricket [2]",
+          "logo": "",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 153,
+          "name": "Super Sport Granstand",
+          "logo": "",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 154,
+          "name": "BT Sports-3",
+          "logo": "",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        }
+      ]
+    },
+    {
+      "id": "football",
+      "name": "Football",
+      "channels": [
+        {
+          "id": 155,
+          "name": "Scotland vs Curaco | European Qualifiers FIFA World Cup 2026",
+          "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17799101161020x576.jpg",
+          "url": "https://premierleagpl23.akamaized.net/hls/live/2107108/testtapmad/master.m3u8",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 156,
+          "name": "Scotland vs Curaçao - Friendlies [143070]",
+          "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Scotland%20VS%20Cura%C3%A7ao%20%20Friendlies.jpg",
+          "url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/143070_abrhd.m3u8?is_vip=false&token=89fe9d6ac50c1ecb6dd03a867fab94b613552954&x-sign=faa8b415d1a097eccf221817e12c3517&x-time=1780148760",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 157,
+          "name": "India Vs Zimbabwe | Unity Cup 2026 (ENGLISH)",
+          "logo": "https://www.fancode.com/skillup-uploads/cms-media/India-vs-Zimbabwe_fc-web.jpg",
+          "url": "https://bd-mc-fblive.fancode.com/mumbai/142668_english_hls_6f3ac729b210192_1ta-di_h264/index.m3u8",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 158,
+          "name": "Laliga tv",
+          "logo": "https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?width=200",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 159,
+          "name": "Suppersports Football",
+          "logo": "",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 160,
+          "name": "SuperSport Premier League+",
+          "logo": "",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 161,
+          "name": "FOOTBALL-1",
+          "logo": "",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 162,
+          "name": "ViaPlay Sports",
+          "logo": "",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 163,
+          "name": "ViaPlay Extra",
+          "logo": "",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 164,
+          "name": "Sky Sports Football",
+          "logo": "https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png",
+          "url": "",
+          "badge": "OFFLINE",
+          "quality": "HD",
+          "language": "EN"
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "name": "News",
+      "channels": [
+        {
+          "id": 165,
+          "name": "Somoy News TV / SOMOY TV",
+          "logo": "https://s3.aynaott.com/storage/ece71c1163a377fbe2d93f9d28c34f60",
+          "url": "https://tvsen6.aynaott.com/somoytv/index.m3u8?e=1779178082&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=1d4e7c85a1be459e27e7fd3be1fb6287",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "BN"
+        },
+        {
+          "id": 166,
+          "name": "Somoy TV (Backup Box)",
+          "logo": "https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",
+          "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "BN"
+        },
+        {
+          "id": 167,
+          "name": "Jamuna TV",
+          "logo": "https://s3.aynaott.com/storage/aac6488b68844e5756ab46eb79659de8",
+          "url": "https://tvsen6.aynaott.com/jamunatv/index.m3u8?e=1779178082&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=6be702ae45666da58a2c374379628dda",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "BN"
+        },
+        {
+          "id": 168,
+          "name": "JAMUNA TV (Server 2)",
+          "logo": "https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",
+          "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "BN"
+        },
+        {
+          "id": 169,
+          "name": "BTV News",
+          "logo": "https://s3.aynaott.com/storage/35ae3e7750a053925a0a1732e219dc7a",
+          "url": "https://tvsen6.aynaott.com/BTVNews/index.m3u8?e=1779178082&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=69794b33cacbf5d96f2fe932f5879ce3",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "BN"
+        },
+        {
+          "id": 170,
+          "name": "Ekattor TV",
+          "logo": "https://s3.aynaott.com/storage/d91767995b2f2a54852c92bbbc20daa7",
+          "url": "https://tvsen6.aynaott.com/ekattorbdtv/index.m3u8?e=1779178082&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=d70b957e7552b49985982db420dd615d",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "BN"
+        },
+        {
+          "id": 171,
+          "name": "Ekattor TV (Server 2)",
+          "logo": "https://s4.gifyu.com/images/imagea02f4314e761661d.png",
+          "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "BN"
+        },
+        {
+          "id": 172,
+          "name": "Star News / Star News Bangladesh",
+          "logo": "https://s3.aynaott.com/storage/b3564688d9964a0da7cee6174fda39ef",
+          "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "BN"
+        },
+        {
+          "id": 173,
+          "name": "News 24 BD / News 24",
+          "logo": "https://s3.aynaott.com/storage/7c002f22c02096b0d1ba833ae9ea6d5b",
+          "url": "https://tvsen6.aynaott.com/news24/index.m3u8?e=1779178082&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=11b75a1d8d999367ee3e32f40dba4e5d",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "BN"
+        },
+        {
+          "id": 174,
+          "name": "Channel 24",
+          "logo": "https://s3.aynaott.com/storage/129b0d0a02566999a0c164cd7d506e55",
+          "url": "https://tvsen6.aynaott.com/channel24/index.m3u8?e=1779178082&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=d256a095933db06e92bc78e8779644ba",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "BN"
+        },
+        {
+          "id": 175,
+          "name": "Channel 24 (Server 2)",
+          "logo": "https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png",
+          "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "BN"
+        },
+        {
+          "id": 176,
+          "name": "DBC News",
+          "logo": "https://s3.aynaott.com/storage/2c5a73ac3f9772a9cb2d18df1b152545",
+          "url": "https://tvsen6.aynaott.com/dbcnews/index.m3u8?e=1779178082&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=4a728861ab193bd667d5a80d9c6e030d",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "BN"
+        },
+        {
+          "id": 177,
+          "name": "DBC News (Server 2)",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png",
+          "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8",
+          "badge": "LIVE",
+          "quality": "HD",
+          "language": "BN"
+        },
+        {
+          "id": 178,
+          "name": "Independent TV / INDEPENDENT TV",
+          "logo": "https://s3.aynaott.com/storage/2c5a73ac3f9772a9cb2d18df1b152545",
+          "url": "https://tvsen6.aynaott.com/independenttv/index.m3u8?e=1779178082&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=cb9fe82a7426c08eb3e2f09342bd1d62",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "BN"
+        },
+        {
+          "id": 179,
+          "name": "INDEPENDENT TV (Server 2)",
+          "logo": "https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png",
+          "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "BN"
+        },
+        {
+          "id": 180,
+          "name": "BBC News",
+          "logo": "https://s3.aynaott.com/storage/7a20437e5660324c20cf8251ccb7a697",
+          "url": "https://tvsen6.aynaott.com/bbcnews/index.m3u8?e=1779178082&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=c04206f635feff6a0888a40c08d13f10",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 181,
+          "name": "BBC News (Server 2)",
+          "logo": "https://seeklogo.com/images/B/bbc-news-logo-8648ABD044-seeklogo.com.png",
+          "url": "https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_3000000=8-mp4a_208000_eng=2.m3u8",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 182,
+          "name": "CNN (Server 1)",
+          "logo": "https://s3.aynaott.com/storage/e0b6da4715f468eb39591911a0597546",
+          "url": "https://tvsen6.aynaott.com/cnn/index.m3u8?e=1779178082&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=6f6625eaf6028d9c83262f829abcbbf4",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 183,
+          "name": "CNN (Server 2)",
+          "logo": "https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png",
+          "url": "https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 184,
+          "name": "DW News / DW",
+          "logo": "https://s3.aynaott.com/storage/0ce159bdea29fce7e3e85d12bc8a10c5",
+          "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 185,
+          "name": "AlJazeera / Al Jazeera English",
+          "logo": "https://s3.aynaott.com/storage/cb26514c-8cfb-4224-80e5-62a778c1a006",
+          "url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 186,
+          "name": "Al Jazeera English (Server 2)",
+          "logo": "https://1000logos.net/wp-content/uploads/2020/08/Al-Jazeera-Logo.jpg",
+          "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 187,
+          "name": "Bloomberg TV",
+          "logo": "https://s3.aynaott.com/storage/2ca61a59-e0e2-4566-94fb-055ef46dac9e",
+          "url": "https://tvsen6.aynaott.com/bloombergtv/index.m3u8?e=1779178082&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=0283c4adc9ee7e564163f3665e986d4a",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 188,
+          "name": "CNBC TV",
+          "logo": "https://s3.aynaott.com/storage/16a213d06e7362d97cb6085e70c9b5a2",
+          "url": "https://tvsen6.aynaott.com/cnbc/index.m3u8?e=1779178082&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=398b48f6467e817fca7563ceae4e4fea",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 189,
+          "name": "CP 24",
+          "logo": "https://s3.aynaott.com/storage/9f391e512f41bec54b163b83667da453",
+          "url": "https://tvsen6.aynaott.com/cp24/index.m3u8?e=1779178082&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=57414780196c3c36f9de95b69bf8c792",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 190,
+          "name": "MSNBC News",
+          "logo": "https://s3.aynaott.com/storage/df14a727-6c91-4c8f-ba9f-2ae527ce27dd",
+          "url": "https://tvsen6.aynaott.com/msnbc/index.m3u8?e=1779178082&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=edcff2cd8ad9c97435c399f923357ab7",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 191,
+          "name": "ABC News",
+          "logo": "https://s3.aynaott.com/storage/50e2fe7f-fa1d-40ee-b37d-c19a992ed97c",
+          "url": "https://tvsen6.aynaott.com/AbcNews/index.m3u8?e=1779178082&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=7c8670d823d9932b7916be2a845c6395",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 192,
+          "name": "ABC 7 Bay",
+          "logo": "https://s3.aynaott.com/storage/b28173a251bda1357f9884ca7eef7b89",
+          "url": "https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 193,
+          "name": "Sky News",
+          "logo": "https://s3.aynaott.com/storage/69d8281f965475f3293a3e30de8c0ccb",
+          "url": "https://tvsen5.aynaott.com/skynews/index.m3u8?e=1779178083&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=3548e3f4832e0c814fe28ff944bfa181",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 194,
+          "name": "LIFE TIME",
+          "logo": "https://s3.aynaott.com/storage/90258e6758834a12979d27097bee04a7",
+          "url": "https://tvsen7.aynaott.com/lifetime/index.m3u8?e=1779178083&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=7d58a8d0979d48546af3861dba9fb034",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 195,
+          "name": "BEK TV News",
+          "logo": "https://s3.aynaott.com/storage/4eaf83274ee309489b535852b1780ad2",
+          "url": "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 196,
+          "name": "NHK World",
+          "logo": "https://s3.aynaott.com/storage/d969a37a7e1bbd49449ae092d34f0549",
+          "url": "https://tvsen6.aynaott.com/nhkworld/index.m3u8?e=1779178083&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=484a3baaa6f61595f1f497fa3462fb96",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 197,
+          "name": "Fox 5",
+          "logo": "https://s3.aynaott.com/storage/4f6486854be670f7458ab60d0402ee42",
+          "url": "https://tvsen6.aynaott.com/fox5/index.m3u8?e=1779178083&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=ab2c900c8757f4fbd4b27c33ce8c13c3",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 198,
+          "name": "Fox business",
+          "logo": "https://s3.aynaott.com/storage/20e4602dd584784607e5eff3963cdde6",
+          "url": "https://tvsen6.aynaott.com/foxbusiness/index.m3u8?e=1779178083&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=084ecf2529d9777691ce14fa43b95877",
+          "badge": "24/7",
+          "quality": "HD",
+          "language": "EN"
+        }
+      ]
+    }
