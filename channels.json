@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30",
+  "updated": "2026-06-12",
   "categories": [
     {
       "id": "live",
@@ -49,6 +49,15 @@
           "badge": "LIVE",
           "quality": "HD",
           "language": "EN"
+        },
+        {
+          "id": 6,
+          "name": "FIFA World Cup 2026 Live",
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/330px-2026_FIFA_World_Cup_emblem.svg.png",
+          "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8",
+          "badge": "LIVE",
+          "quality": "FHD",
+          "language": "PT"
         }
       ]
     },
@@ -57,7 +66,7 @@
       "name": "Sports Channels",
       "channels": [
         {
-          "id": 6,
+          "id": 7,
           "name": "T Sports HD",
           "logo": "https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4",
           "url": "https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1779178079&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=d3b6774fbd416803ca328adea837af88",
@@ -65,7 +74,7 @@
           "language": "BN"
         },
         {
-          "id": 7,
+          "id": 8,
           "name": "Gazi TV (GTV)",
           "logo": "https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",
           "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8",
@@ -73,7 +82,7 @@
           "language": "BN"
         },
         {
-          "id": 8,
+          "id": 9,
           "name": "Star Sports 1 Hindi",
           "logo": "https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg",
           "url": "https://starsportshindiii.pages.dev/index.m3u8",
@@ -81,7 +90,7 @@
           "language": "HI"
         },
         {
-          "id": 9,
+          "id": 10,
           "name": "Star Sports 2 HD",
           "logo": "https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg",
           "url": "http://89.187.189.98/STARSPORTS2HD/index.m3u8",
@@ -89,7 +98,7 @@
           "language": "EN"
         },
         {
-          "id": 10,
+          "id": 11,
           "name": "Sony Sports Ten 1 HD",
           "logo": "https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png",
           "url": "http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276737&extension=.m3u8",
@@ -97,7 +106,7 @@
           "language": "EN"
         },
         {
-          "id": 11,
+          "id": 12,
           "name": "Sony Sports Ten 5 HD",
           "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png",
           "url": "http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276728&extension=.m3u8",
@@ -105,7 +114,7 @@
           "language": "EN"
         },
         {
-          "id": 12,
+          "id": 13,
           "name": "A Sports HD",
           "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",
           "url": "https://tvsen6.aynaott.com/asports/index.m3u8?e=1779178079&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=14dc3f04ef5f0057c16df8ae84e40649",
@@ -113,7 +122,7 @@
           "language": "UR"
         },
         {
-          "id": 13,
+          "id": 14,
           "name": "Willow TV HD",
           "logo": "https://aimages.willow.tv/wlo_logo_200_200.jpg",
           "url": "https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8",
@@ -121,7 +130,7 @@
           "language": "EN"
         },
         {
-          "id": 14,
+          "id": 15,
           "name": "PTV Sports HD",
           "logo": "https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",
           "url": "http://66.102.120.18:8000/play/a04w/index.m3u8",
@@ -129,12 +138,60 @@
           "language": "UR"
         },
         {
-          "id": 15,
+          "id": 16,
           "name": "Bein Sports Xtra",
           "logo": "https://static.epg.best/qa/beINSports1.qa.png",
           "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
           "quality": "HD",
           "language": "EN"
+        },
+        {
+          "id": 17,
+          "name": "Bein Sports Max",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png?_=20170227163529",
+          "url": "https://no-red.pages.dev/liveop2.m3u8",
+          "quality": "HD",
+          "language": "FR"
+        },
+        {
+          "id": 18,
+          "name": "PTV | Server 2",
+          "logo": "https://i.ibb.co.com/5gkd3QSs/file-00000000acc0720699d7ca06851c868b.png",
+          "url": "https://playztv-apps.pages.dev/ptvsports/index.m3u8",
+          "quality": "HD",
+          "language": "UR"
+        },
+        {
+          "id": 19,
+          "name": "Tyc Sports Argentina",
+          "logo": "https://imglink.cc/cdn/1oSRQnyUqK.jpg",
+          "url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
+          "quality": "HD",
+          "language": "ES"
+        },
+        {
+          "id": 20,
+          "name": "Caze TV B | Brazil",
+          "logo": "https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png",
+          "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
+          "quality": "HD",
+          "language": "PT"
+        },
+        {
+          "id": 21,
+          "name": "FIFA PLUS E | Server 4",
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/330px-2026_FIFA_World_Cup_emblem.svg.png",
+          "url": "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8",
+          "quality": "HD",
+          "language": "EN"
+        },
+        {
+          "id": 22,
+          "name": "FIFA PLUS B | Server 5",
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/330px-2026_FIFA_World_Cup_emblem.svg.png",
+          "url": "https://37b4c228.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/6f5437c5-e015-4754-8476-c8c6d27d3a55/1.m3u8",
+          "quality": "HD",
+          "language": "FR"
         }
       ]
     },
@@ -143,7 +200,7 @@
       "name": "Bangla Channels",
       "channels": [
         {
-          "id": 16,
+          "id": 23,
           "name": "Channel i",
           "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png",
           "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8",
@@ -151,7 +208,7 @@
           "language": "BN"
         },
         {
-          "id": 17,
+          "id": 24,
           "name": "NTV HD",
           "logo": "https://ncdn.ntvbd.com/sites/all/themes/sloth/logo.png",
           "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8",
@@ -159,7 +216,7 @@
           "language": "BN"
         },
         {
-          "id": 18,
+          "id": 25,
           "name": "RTV HD",
           "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/500px-Rtv_bangladesh.svg.png",
           "url": "https://tvsen5.aynaott.com/RtvHD/index.m3u8?e=1779178085&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=aa47a2b826d36eeb4cab3731eff373e7",
@@ -167,7 +224,7 @@
           "language": "BN"
         },
         {
-          "id": 19,
+          "id": 26,
           "name": "Banglavision",
           "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/250px-Banglavision.svg.png",
           "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8",
@@ -175,7 +232,7 @@
           "language": "BN"
         },
         {
-          "id": 20,
+          "id": 27,
           "name": "Deepto TV",
           "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Logo_of_Deepto_TV.svg/330px-Logo_of_Deepto_TV.svg.png",
           "url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8",
@@ -183,7 +240,7 @@
           "language": "BN"
         },
         {
-          "id": 21,
+          "id": 28,
           "name": "Star Jalsha HD",
           "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png?20230625063343",
           "url": "https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8",
@@ -191,7 +248,7 @@
           "language": "BN"
         },
         {
-          "id": 22,
+          "id": 29,
           "name": "Zee Bangla HD",
           "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.svg/500px-%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.svg.png",
           "url": "https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8",
@@ -199,7 +256,7 @@
           "language": "BN"
         },
         {
-          "id": 23,
+          "id": 30,
           "name": "Sony Aath",
           "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png",
           "url": "https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8",
@@ -213,7 +270,7 @@
       "name": "News Channels",
       "channels": [
         {
-          "id": 24,
+          "id": 31,
           "name": "Somoy TV",
           "logo": "https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",
           "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8",
@@ -221,7 +278,7 @@
           "language": "BN"
         },
         {
-          "id": 25,
+          "id": 32,
           "name": "Jamuna TV",
           "logo": "https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",
           "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8",
@@ -229,7 +286,7 @@
           "language": "BN"
         },
         {
-          "id": 26,
+          "id": 33,
           "name": "Channel 24",
           "logo": "https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png",
           "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8",
@@ -237,7 +294,7 @@
           "language": "BN"
         },
         {
-          "id": 27,
+          "id": 34,
           "name": "Ekattor TV",
           "logo": "https://s4.gifyu.com/images/imagea02f4314e761661d.png",
           "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8",
@@ -245,7 +302,7 @@
           "language": "BN"
         },
         {
-          "id": 28,
+          "id": 35,
           "name": "BBC News",
           "logo": "https://seeklogo.com/images/B/bbc-news-logo-8648ABD044-seeklogo.com.png",
           "url": "https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_3000000=8-mp4a_208000_eng=2.m3u8",
@@ -253,7 +310,7 @@
           "language": "EN"
         },
         {
-          "id": 29,
+          "id": 36,
           "name": "CNN International",
           "logo": "https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png",
           "url": "https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8",
@@ -261,7 +318,7 @@
           "language": "EN"
         },
         {
-          "id": 30,
+          "id": 37,
           "name": "Al Jazeera English",
           "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Al_Jazeera_Media_Network_Logo.svg/500px-Al_Jazeera_Media_Network_Logo.svg.png",
           "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8",
@@ -275,7 +332,7 @@
       "name": "Entertainment 24/7",
       "channels": [
         {
-          "id": 31,
+          "id": 38,
           "name": "Gopal Bhar 24/7",
           "logo": "https://image.tmdb.org/t/p/w500/2YLtdalssU7ypT68jzzKyCZRfPr.jpg",
           "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8",
@@ -283,7 +340,7 @@
           "language": "BN"
         },
         {
-          "id": 32,
+          "id": 39,
           "name": "Motu Patlu 24/7",
           "logo": "https://image.tmdb.org/t/p/w500/nXKXaGE0SkjvhnbFKc0dUWh1uwo.jpg",
           "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8",
@@ -291,7 +348,7 @@
           "language": "HI"
         },
         {
-          "id": 33,
+          "id": 40,
           "name": "Tom & Jerry 24/7",
           "logo": "https://image.tmdb.org/t/p/w500/pApniCXhegDnhxQda7RcpG8gFP0.jpg",
           "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8",
@@ -299,7 +356,7 @@
           "language": "EN"
         },
         {
-          "id": 34,
+          "id": 41,
           "name": "Bangla Natok 24/7",
           "logo": "https://image.winudf.com/v2/image1/Y29tLnR3b3NoYXBlLmJhbmdsYW5hdG9rX2ljb25fMTU3Nzg5NzQyOF8wMzM/icon.webp?w=280&fakeurl=1&type=.webp",
           "url": "https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8",
@@ -307,7 +364,7 @@
           "language": "BN"
         },
         {
-          "id": 35,
+          "id": 42,
           "name": "Sony Max HD",
           "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/SONY_MAX_Logo_2022.png/500px-SONY_MAX_Logo_2022.png",
           "url": "http://195.181.169.162/SONY_MAX_HD/index.m3u8?token=test",
@@ -315,7 +372,7 @@
           "language": "HI"
         },
         {
-          "id": 36,
+          "id": 43,
           "name": "HBO HD",
           "logo": "https://s3.aynaott.com/storage/111bfd01fb43770e925ca9cf16663f56",
           "url": "https://tvsen5.aynaott.com/hbo/index.m3u8?e=1779178091&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=8d923f7f30eb9c890902d8022bd191b1",
